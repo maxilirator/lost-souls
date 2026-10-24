@@ -32,8 +32,6 @@ En låst järngrind vetter mot en anonym sidogata. På gården finns kullersten,
 
 > **Notera:** "Den fångna kvinnan" var Ishtar när bilden målades. Nu sitter Ellen i citadellet. Förändras bilden? Se [oppna-fragor](../arbete/oppna-fragor.md).
 
-![Vardagsrummet med My vid brasan](../bilder/templet-vardagsrum.png)
-
 ## Övervåning – privata rum
 
 Här finns små sovrum och delade badrum. Rollpersonernas rum behåller sina identitetsledtrådar från originalet: Alexanders krypterade utrustning, Peters dator och ockulta material, Maries anteckningar och Rebeccas hebreiska texter och ekonomiska handlingar. **Rebecca har en större svit med eget badrum**, en konkret förmån som finansieringen gett henne. De övriga medlemmarnas rum speglar deras personligheter. Rollpersonernas rum beskrivs i detalj i personfilerna: [Alexander](../personer/alexander-ehrson.md#rummet-i-templet), [Peter](../personer/peter-keller.md#rummet-i-templet), [Rebecca](../personer/rebecca-rosenberg.md#rummet-i-templet), [Marie](../personer/marie-alm.md#rummet-i-templet) och [My](../personer/my.md#hennes-rum).

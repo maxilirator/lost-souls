@@ -18,7 +18,6 @@ Delas ut när en rollperson ser sig själv i spegeln (se [minnesförlusten](../s
 | Fil | Visar | Används i |
 |---|---|---|
 | [ritualen.png](ritualen.png) | Fem personer i pentagrammet med ljus som strömmar ur munnarna. En beslöjad gestalt står i bakgrunden. | [Sanningen](../kanon/sanningen.md#ritualen) |
-| [templet-vardagsrum.png](templet-vardagsrum.png) | Vardagsrummet med brasan, trappan upp och My i fåtöljen | [Templet](../platser/templet.md), [My vid brasan](../scener/my-vid-brasan.md) |
 | [gamla-stan.png](gamla-stan.png) | Gamla stan från ovan | **Inaktuell** – originalets miljö |
 | [ishtars_hus_koncept.png](ishtars_hus_koncept.png) | Templet (märkt *Ishtars hus*): exteriör, omgivningskarta, planritningar, interiörer, medlemsporträtt | **Delvis inaktuell** |
 

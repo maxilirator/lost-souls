@@ -13,8 +13,6 @@ tradar: [identitetsmysteriet]
 
 *Spelledarperson · Ny medlem · Arbetsutkast*
 
-![My vid brasan](../bilder/templet-vardagsrum.png)
-
 Den senaste att flytta in i [Templet](../platser/templet.md). Hon flyttade in för en vecka sedan – egentligen skulle hon inte komma förrän i mitten av november, men hon tog sig friheten att flytta in tidigare. Det ställde till det för professorns planer. Han uppmanade de andra att ta med henne på ritualen, men de litade inte på henne och kom överens om att hålla tyst.
 
 My har ingen aning om vad som hänt och har inte riktigt lärt sig de andras namn ännu. Hon vill gärna passa in och bli en del av gruppen, som verkar stå varandra nära och brinna för det de läser. En sak irriterar henne lite, även om hon är beredd att acceptera det: hon har uppenbarligen mycket större städområde än de andra.

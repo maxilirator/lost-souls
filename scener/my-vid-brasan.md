@@ -9,8 +9,6 @@ status: utkast
 ---
 # My vid brasan
 
-![My vid brasan](../bilder/templet-vardagsrum.png)
-
 ## Utlösare
 Rollpersonerna kommer in i [Templet](../platser/templet.md). Om de inte kommer mitt i natten möter de My först.
 
