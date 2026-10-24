@@ -7,7 +7,7 @@ relationer:
   - person: ellen
     relation: en av tre mördare – eller den som inte deltog (okänt vem; minns inte)
   - person: herman-abrahamsson
-    relation: utreder honom i hemlighet; drev på ritualen för att få bevis
+    relation: utreder honom i hemlighet; drev på ritualen för att få bevis, visste inte att ritualmord ingick.
   - person: sapo-kontakten
     relation: kollega som till slut berättar vem han är
   - person: my
