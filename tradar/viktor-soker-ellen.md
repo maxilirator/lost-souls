@@ -2,7 +2,7 @@
 namn: Viktor söker Ellen
 status: fastställd
 personer: [viktor, ellen, alexander-ehrson, peter-keller, rebecca-rosenberg, marie-alm]
-platser: [ishtars-hus, ellens-rum]
+platser: [templet, ellens-rum]
 scener: []
 ---
 # Viktor söker Ellen

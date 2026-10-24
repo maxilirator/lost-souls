@@ -1,18 +1,20 @@
 ---
-namn: Ishtars hus (arbetsnamn Asyl)
+namn: Templet (Bet Ishtar Templet)
 typ: byggnad
 del_av: Stockholm, Liljeholmen
 personer: [herman-abrahamsson, jelena, rebecca-rosenberg, alexander-ehrson, peter-keller, marie-alm, my, viktor, nadia, liv]
 tradar: [identitetsmysteriet, viktor-soker-ellen, polisutredningen, ishtars-frigorelse]
 bilder: [../bilder/ishtars_hus_koncept.png]
 ---
-# Ishtars hus – kultens hemvist (Asyl)
+# Templet – kultens hemvist
 
-**Status:** Föreslagen fiktiv fastighet i Liljeholmen, Stockholm. Exakt gata och byggnadsplan är ännu inte fastställda. **Asyl** är ett föreslaget namn, ännu inte slutligt.
+**Status:** Föreslagen fiktiv fastighet i Liljeholmen, Stockholm. Exakt gata och byggnadsplan är ännu inte fastställda.
+
+**Namn:** Officiellt **Bet Ishtar Templet**. Medlemmarna säger bara **Templet**.
 
 En äldre maskinverkstad från omkring sekelskiftet 1900 har byggts om till kollektiv och religiöst centrum. Den ligger på en avskild, stenlagd gård bakom en järngrind och tegelmur, med äldre industrihus, verkstäder och modernare kvarter runtomkring. Den gamla verksamhetens namn kan fortfarande anas på tegelfasaden. Från utsidan är huset diskret; inuti är det ombonat, påkostat på vissa ställen och påfallande välordnat.
 
-![Konceptbild av Ishtars hus](../bilder/ishtars_hus_koncept.png)
+![Konceptbild av Templet (märkt med det äldre namnet Ishtars hus)](../bilder/ishtars_hus_koncept.png)
 
 > ⚠ Konceptbilden är äldre: den visar en hemlig tunnel (finns inte), Ellen som rollperson och saknar rum för flera medlemmar. Se [bilder/README.md](../bilder/README.md).
 

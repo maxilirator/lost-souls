@@ -23,7 +23,7 @@ tradar: [viktor-soker-ellen, ishtars-frigorelse, polisutredningen]
 
 *Spelledarperson · Död vid äventyrets början · Arbetsutkast*
 
-Ellen var **[Viktors](viktor.md) flickvän**. De fyra rollpersonerna mördade henne medvetet i en ockult ritual. Hennes själ är nu fången i [Chokmahs citadell](../platser/chokmahs-citadell.md), där Ishtar tidigare satt fången. [Hennes rum](../platser/ellens-rum.md) i Asyl blir centrum för övernaturliga förändringar.
+Ellen var **[Viktors](viktor.md) flickvän**. De fyra rollpersonerna mördade henne medvetet i en ockult ritual. Hennes själ är nu fången i [Chokmahs citadell](../platser/chokmahs-citadell.md), där Ishtar tidigare satt fången. [Hennes rum](../platser/ellens-rum.md) i Templet blir centrum för övernaturliga förändringar.
 
 > ⚠ **Motsägelse:** Äldre text säger att Ellen *deltog i ritualen och dog vid mötet med Ishtar* (och konceptbilden visar henne som rollperson, "Ishtars ankare"). Det strider mot att hon mördades av rollpersonerna. Se [M1](../arbete/motsagelser.md#m1-ellens-roll-i-ritualen).
 

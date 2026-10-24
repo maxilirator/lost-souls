@@ -32,7 +32,6 @@ Inga motsägelser, men saker som behöver skrivas innan helheten håller. Ordnad
 
 ## Platser
 
-17. Rumsfördelningen i Asyl. Var ligger Ellens rum?
+17. Rumsfördelningen i Templet. Var ligger Ellens rum?
 18. Hur ser Gränslandet ut utanför kammaren, och hur tar man sig till Stockholm?
 19. Sodom-templet: hur länge är passagen öppen, kan man återvända?
-20. Kultens slutliga namn (Asyl är arbetsnamn).

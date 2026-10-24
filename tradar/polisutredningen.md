@@ -2,7 +2,7 @@
 namn: Polisutredningen
 status: under arbete
 personer: [ellen, alexander-ehrson, herman-abrahamsson]
-platser: [ishtars-hus, ellens-rum]
+platser: [templet, ellens-rum]
 scener: []
 ---
 # Polisutredningen

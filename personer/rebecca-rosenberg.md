@@ -10,7 +10,7 @@ relationer:
     relation: formell överordnad, men Jelena har den verkliga makten
   - person: herman-abrahamsson
     relation: finansierar honom; formell andreman
-platser: [ishtars-hus, ritualkammaren]
+platser: [templet, ritualkammaren]
 tradar: [identitetsmysteriet]
 ---
 # Rebecca Rosenberg

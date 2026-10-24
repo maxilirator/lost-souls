@@ -12,7 +12,7 @@ relationer:
     relation: hans verkliga andreman
   - person: ishtar
     relation: dyrkar henne utan att förstå henne; drömmer om henne
-platser: [ishtars-hus]
+platser: [templet]
 tradar: [identitetsmysteriet, polisutredningen]
 ---
 # Herman Abrahamsson

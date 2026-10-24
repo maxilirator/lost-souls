@@ -6,7 +6,7 @@ utkast: arbetsutkast
 relationer:
   - person: ishtar
     relation: söker hennes själ
-platser: [chokmahs-citadell, ishtars-hus]
+platser: [chokmahs-citadell, templet]
 tradar: [ishtars-frigorelse]
 ---
 # Acrotiden
@@ -15,7 +15,7 @@ tradar: [ishtars-frigorelse]
 
 **Ursprung:** [Chokmahs citadell](../platser/chokmahs-citadell.md).
 **Uppdrag:** Söka efter [Ishtars](ishtar.md) själ.
-**Hur den upplevs:** En skugga med viskande, ekande röst, som från ett avlägset rum. Kan visa sig i korridorer, speglar och mörka rum i Asyl. Dess viskningar antyder att någon saknas i citadellet.
+**Hur den upplevs:** En skugga med viskande, ekande röst, som från ett avlägset rum. Kan visa sig i korridorer, speglar och mörka rum i Templet. Dess viskningar antyder att någon saknas i citadellet.
 
 Den söker, lyssnar och kan dyka upp igen, men avslöjar inte automatiskt vem den söker. Se [nedräkningen](../spelverktyg/nedrakningar.md#ishtars-frigörelse).
 

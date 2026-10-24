@@ -3,7 +3,7 @@
 Ledtrådar är erbjudanden, inte tvång.
 
 ## Till högkvarteret
-Nyckelbricka, visitkort, kvitto. → [Asyl](../platser/ishtars-hus.md)
+Nyckelbricka, visitkort, kvitto. → [Templet](../platser/templet.md)
 
 ## Till falska identiteter
 Breven, personliga rum, Mys minnen, Abrahamssons arbetsrum. → [Identitetsmysteriet](../tradar/identitetsmysteriet.md)

@@ -1,14 +1,14 @@
 ---
 namn: Ellens rum
 typ: rum
-del_av: ishtars-hus
+del_av: templet
 personer: [ellen, viktor]
 tradar: [ishtars-frigorelse, polisutredningen, viktor-soker-ellen]
 bilder: []
 ---
 # Ellens rum
 
-Ellens rum i [Asyl](ishtars-hus.md) blir centrum för övernaturliga förändringar efter ritualen. Förloppet följer [nedräkningen](../spelverktyg/nedrakningar.md#ishtars-frigörelse):
+Ellens rum i [Templet](templet.md) blir centrum för övernaturliga förändringar efter ritualen. Förloppet följer [nedräkningen](../spelverktyg/nedrakningar.md#ishtars-frigörelse):
 
 1. Terrakottafigurer uppstår i rummet.
 2. Senare börjar rummet förändras: reliefer framträder på väggarna, luften blir torr och varm och sand samlas på golvet. Rummet får allt tydligare drag av ett forntida tempel.

@@ -8,7 +8,7 @@ relationer:
     relation: hans verkliga andreman; styr tillgången till honom
   - person: rebecca-rosenberg
     relation: formellt underordnad henne, men har den verkliga makten
-platser: [ishtars-hus]
+platser: [templet]
 tradar: []
 ---
 # Jelena

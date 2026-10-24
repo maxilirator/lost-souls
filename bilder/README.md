@@ -2,10 +2,11 @@
 
 | Fil | Visar | Aktuell? |
 |---|---|---|
-| [ishtars_hus_koncept.png](ishtars_hus_koncept.png) | Ishtars hus: exteriör, omgivningskarta, planritningar, interiörer, medlemsporträtt | **Delvis inaktuell** |
+| [ishtars_hus_koncept.png](ishtars_hus_koncept.png) | Templet (märkt *Ishtars hus*): exteriör, omgivningskarta, planritningar, interiörer, medlemsporträtt | **Delvis inaktuell** |
 
 ## Inaktuellt i konceptbilden
 
+- **Namnet** "Ishtars hus" på bilden – heter nu Bet Ishtar Templet.
 - **Hemlig tunnel** (rum 18–19 och panelen "Hemlig tunnel") – finns inte, se [beslut](../kanon/beslut.md).
 - **Ritualplatsen** på kartan som en byggnad i närheten – den ligger i Gränslandet.
 - **Ellen** visas bland rollpersonerna och "Rebecca" bland spelledarpersonerna – Rebecca är rollperson, Ellen spelledarperson.

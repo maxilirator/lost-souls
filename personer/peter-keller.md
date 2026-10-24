@@ -8,7 +8,7 @@ relationer:
     relation: medgärningsman i mordet (minns inte)
   - person: herman-abrahamsson
     relation: ifrågasätter hans kunnande
-platser: [ishtars-hus, ritualkammaren]
+platser: [templet, ritualkammaren]
 tradar: [identitetsmysteriet]
 ---
 # Peter Keller

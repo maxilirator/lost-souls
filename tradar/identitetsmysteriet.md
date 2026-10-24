@@ -2,7 +2,7 @@
 namn: Identitetsmysteriet
 status: under arbete
 personer: [alexander-ehrson, peter-keller, rebecca-rosenberg, marie-alm, herman-abrahamsson, my]
-platser: [ishtars-hus]
+platser: [templet]
 scener: []
 ---
 # Identitetsmysteriet

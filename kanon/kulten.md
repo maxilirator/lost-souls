@@ -2,7 +2,7 @@
 
 Kulten är en sluten urban livsgemenskap i Stockholm. Den dyrkar **[Ishtar](../personer/ishtar.md) som en uråldrig gudinna**, men har missförstått hennes verkliga natur. Hon är tyst men närvarande; drömmar och sammanträffanden tolkas som tecken. Kulten söker frigörelse, makt och upplysning. Abrahamsson bygger sin lära på fragmentariska fynd från Sodom och Gomorra och egna spekulationer. Han vet inte att Demiurgen och änglarna krossade upproret, och tror att de forntida ritualisterna helt enkelt misslyckades. Han har själv drömt om en fången kvinna i ett svart citadell men avfärdar drömmarna som vanliga drömmar.
 
-Kulten bor i [Ishtars hus / Asyl](../platser/ishtars-hus.md).
+Kulten bor i [Templet](../platser/templet.md), officiellt *Bet Ishtar Templet*.
 
 ## Medlemmar – elva totalt, inklusive Ellen
 

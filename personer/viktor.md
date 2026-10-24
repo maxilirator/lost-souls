@@ -8,7 +8,7 @@ relationer:
     relation: hans flickvän (mördad)
   - person: herman-abrahamsson
     relation: hängiven; reagerar hårt när någon ifrågasätter honom
-platser: [ishtars-hus]
+platser: [templet]
 tradar: [viktor-soker-ellen]
 ---
 # Viktor

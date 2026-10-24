@@ -8,7 +8,7 @@ relationer:
     relation: medgärningsman i mordet (minns inte)
   - person: herman-abrahamsson
     relation: utreder honom i hemlighet
-platser: [ishtars-hus, ritualkammaren]
+platser: [templet, ritualkammaren]
 tradar: [polisutredningen, identitetsmysteriet]
 ---
 # Alexander Ehrson / Axel Ehrenborg

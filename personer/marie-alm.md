@@ -8,7 +8,7 @@ relationer:
     relation: medgärningsman i mordet (minns inte)
   - person: herman-abrahamsson
     relation: han är förälskad i henne (ensidigt); hon ser luckor i hans tolkningar
-platser: [ishtars-hus, ritualkammaren]
+platser: [templet, ritualkammaren]
 tradar: [identitetsmysteriet]
 ---
 # Marie Alm

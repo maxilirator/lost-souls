@@ -6,7 +6,7 @@ utkast: arbetsutkast
 relationer:
   - person: ishtar
     relation: övertygad om hennes närvaro; drömmer om en kvinnogestalt
-platser: [ishtars-hus]
+platser: [templet]
 tradar: [ishtars-frigorelse]
 ---
 # Nadia

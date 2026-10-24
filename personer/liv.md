@@ -4,7 +4,7 @@ typ: spelledarperson
 status: levande
 utkast: arbetsutkast
 relationer: []
-platser: [ishtars-hus]
+platser: [templet]
 tradar: []
 ---
 # Liv
