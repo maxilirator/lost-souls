@@ -10,8 +10,6 @@ relationer:
     relation: utreder honom i hemlighet; drev på ritualen för att få bevis, visste inte att ritualmord ingick.
   - person: sapo-kontakten
     relation: kollega som till slut berättar vem han är
-  - person: my
-    relation: hon tror att han är elektriker och ber honom laga hennes förstärkare
   - person: ishtar
     relation: återfödd följeslagare till henne (vet inte om det)
 platser: [templet, ritualkammaren]
@@ -29,17 +27,17 @@ Alexander är infiltratör inom Säkerhetspolisen med uppdrag att identifiera oc
 
 Hans riktiga namn är **Axel Ehrenborg**, och han är av adlig börd. Släktgodset ligger i Uppland. De närmaste vet att han ofta är borta under längre uppdrag och har därför inte börjat leta efter honom när äventyret börjar.
 
-Utåt spelade han nyfiken och frågvis inför det ockulta. Han deltog i ritualen men planerade att sätta dit professorn efteråt, och han drev på gruppen att genomföra den för att snabbare få fram bevis. Professorn noterade att hans historiska förkunskaper var förvånansvärt bristfälliga.
+Utåt spelade han nyfiken och frågvis inför det ockulta. Han deltog i ritualen men planerade att sätta dit kulten efteråt, och han drev på gruppen att genomföra den för att snabbare få fram bevis.
 
 **Täckhistorien** (se [brevet](../spelverktyg/breven.md#alexander-ehrson)): frånskild före detta elektriker som omskolar sig. Allt utom åldern är lögn.
 
 ## Kläder i klädhögen
 
-*Lager-på-lager:* grå t-shirt, röd hoodie och svart field jacket. Vita sneakers och jeans. Mobil, husnyckel och **professor Abrahamssons visitkort**.
+*Lager-på-lager:* grå t-shirt, röd hoodie och svart field jacket. Vita sneakers och jeans. Mobil, husnycklar.
 
 ## Rummet i Templet
 
-Opersonligt, nästan som ett hotellrum. På skrivbordet står en dyr bärbar dator kopplad till en avancerad router och en separat brandvägg. Studielitteraturen ligger prydligt staplad bredvid och ser nästan oläst ut. I ett hörn står tyngder och en träningsbänk. I garderoben hänger en skräddarsydd kostym bredvid vardagskläder och exklusiva träningsplagg. Datorn är krypterad och kräver lösenord. **Tjänstepistolen, en Glock 17, är gömd någonstans i rummet.**
+Opersonligt, nästan som ett hotellrum. På skrivbordet står en dyr bärbar dator kopplad till en avancerad router och en separat brandvägg. Litteratur ligger prydligt staplad bredvid och ser nästan oläst ut. I ett hörn står tyngder och en träningsbänk. Datorn är krypterad och kräver lösenord. **Tjänstepistolen, en Glock 17, är gömd någonstans i rummet.**
 
 ## Coola detaljer i spel
 
@@ -62,7 +60,7 @@ Se [minnesförlusten](../spelverktyg/minnesforlust.md) för när värdena avslö
 
 ## Trådar
 
-- [Polisutredningen](../tradar/polisutredningen.md): DNA-analysen avslöjar för SÄPO att en av deras egna är misstänkt. [SÄPO-kontakten](sapo-kontakten.md) berättar för honom vem han är.
+- [SÄPO-kontakten](sapo-kontakten.md) berättar för honom vem han är.
 - [Identitetsmysteriet](../tradar/identitetsmysteriet.md)
 
 > **Öppet:** Drev han på ritualen men höll inte i dolken – eller gick han längre än han tänkt? Han är en naturlig kandidat till att vara den som inte deltog i mordet, men lika gärna den som gick för långt.
