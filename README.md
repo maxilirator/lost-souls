@@ -1,11 +1,31 @@
 # Vilsna själar
 
-Rollspelsäventyr av Mattias Geisler och Martin Svärd.
+Rollspelsäventyr av Mattias Geisler och Martin Svärd. Omarbetad version (arbetsutkast v0.7).
 
-- [Spelledarhandbok och dokumentregister](markdown/SPELLEDARHANDBOK.md)
-- [Projektstatus och beslut](markdown/PROJEKTSTATUS.md)
-- [Projektets introduktion](markdown/README.md)
+Fyra rollpersoner vaknar utan minne i en ritualkammare i Gränslandet. De har mördat Ellen, Viktors flickvän, och därmed frigjort Ishtar ur Chokmahs citadell. Ingen vet vad de har gjort, inte ens de själva. Större delen av äventyret utspelar sig i kultens hus i Stockholm (arbetsnamn **Asyl**).
 
-Markdown-filerna i `markdown/` är primär källa. Uppdatera endast berörda dokument vid ändringar. Skilj mellan fastställda beslut, arbetsförslag och ännu oskrivna delar.
+## Var finns vad
 
-HTML-filerna är läsvyer. Originalarkivet bevaras separat.
+| Mapp | Innehåll |
+|---|---|
+| [`kanon/`](kanon/) | Spelledarens sanning, kulten och **beslutsloggen** – det som är fastställt |
+| [`personer/`](personer/) | En fil per rollperson, spelledarperson och väsen, med relationer |
+| [`platser/`](platser/) | En fil per plats |
+| [`tradar/`](tradar/) | Handlingstrådar: vad som driver dem, vem som berörs, vad som är öppet |
+| [`akter/`](akter/) | Aktöversikter |
+| [`scener/`](scener/) | Enskilda scener (växer fram här) |
+| [`spelverktyg/`](spelverktyg/) | Nedräkningar och ledtrådskedjor |
+| [`bilder/`](bilder/) | Konceptbilder och kartor |
+| [`arbete/`](arbete/) | **Motsägelser och öppna frågor** att besluta om |
+| [`mallar/`](mallar/) | Mallar för nya filer |
+
+Börja med [kanon/sanningen.md](kanon/sanningen.md), sedan [arbete/motsagelser.md](arbete/motsagelser.md).
+
+## Arbetsprinciper
+
+- Markdown-filerna är primär källa. Uppdatera bara berörda dokument vid ändringar.
+- Skilj mellan **fastställt**, **förslag** och **oskrivet**. Fastställda beslut förs in i [kanon/beslut.md](kanon/beslut.md).
+- Varje person, plats och tråd har en egen fil. Länka hellre än att upprepa.
+- Inga scener ska tvinga rollpersonerna in på en förutbestämd väg.
+
+Regler för Claude finns i [CLAUDE.md](CLAUDE.md).
