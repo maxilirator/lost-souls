@@ -5,7 +5,7 @@ status: levande
 utkast: arbetsutkast
 relationer:
   - person: ellen
-    relation: medgärningsman i mordet (minns inte)
+    relation: en av tre mördare – eller den som inte deltog (okänt vem; minns inte)
   - person: herman-abrahamsson
     relation: ifrågasätter hans kunnande
 platser: [templet, ritualkammaren]

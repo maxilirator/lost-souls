@@ -4,6 +4,10 @@ Fastställda beslut. Det som står här gäller före allt annat i repot. Nyaste
 
 | Version / datum | Beslut |
 |---|---|
+| 2026-10-24 | **Tre mördare:** Ellen har tre dolkhugg genom bröstkorgen. En av de fyra rollpersonerna deltog inte i mordet. Vem är inte bestämt. Ersätter att alla fyra mördade henne. |
+| 2026-10-24 | **Uppvaknandet:** Rollpersonerna vaknar nakna och blodiga, med kläderna i högar (vems är vems?) och en spegel där ingen känner igen sig. Total självbiografisk minnesförlust, men de kan prata och minns hur världen fungerar. Förmågor upptäcks genom att prova; SL har värdena bakom skärmen. |
+| 2026-10-24 | **Gränslandet:** Ser ut som ett äldre industriområde nära Stockholms stadskärna, men de hittar inte och känner inte igen sig. Ingen mobiltäckning; ingen minns sin pinkod, ingen har ansiktsigenkänning. Bara borderliners finns där. |
+| 2026-10-24 | **Akt 1** utspelar sig helt i Gränslandet: uppvaknandet, Steffe, knarkaren. Den slutar när rollpersonerna ser Templet och vet att de bor där. Mötena med kultmedlemmarna flyttas till akt 2. |
 | 2026-10-24 | **Templet:** Kultens hus heter officiellt **Bet Ishtar Templet** och kallas i vardagslag **Templet**. Ersätter arbetsnamnet Asyl. |
 | v0.7 | **Manusscenen i Sodom:** När spelarna går genom passagen gestaltar de var sin forntida människa som bär samma själ som deras nutida rollperson. Scenen är helt förskriven som teatermanus. Manuset skrivs senare. → [scener/sodom-manusscen.md](../scener/sodom-manusscen.md) |
 | v0.6 | **Passagen till Sodom:** Sent i nedräkningen öppnas en passage från Ellens rum till Ishtars tempel i det forntida Sodom. Den leder inte till ritualkammaren eller till citadellet. |

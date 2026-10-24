@@ -1,6 +1,6 @@
 # Personerna
 
-Fyra rollpersoner och sju spelledarpersoner, totalt elva kultmedlemmar inklusive Ellen. Därtill två övernaturliga väsen.
+Fyra rollpersoner och sju spelledarpersoner, totalt elva kultmedlemmar inklusive Ellen. Därtill personer och väsen utanför kulten.
 
 ## Rollpersoner
 
@@ -23,6 +23,12 @@ Fyra rollpersoner och sju spelledarpersoner, totalt elva kultmedlemmar inklusive
 
 - [Ishtar](ishtar.md) – frigjord gudinna
 - [Acrotiden](acrotiden.md) – skuggan från citadellet
+- [Nachtkäfer](nachtkafer.md) – kackerlackslika varelser i Gränslandet
+
+## I Gränslandet
+
+- [Steffe](steffe.md) – uteliggare
+- [Knarkaren](knarkaren.md) – vilsen kvinna, namn ej bestämt
 
 ## Relationskarta
 
@@ -30,7 +36,7 @@ Fyra rollpersoner och sju spelledarpersoner, totalt elva kultmedlemmar inklusive
 graph LR
   RP["Rollpersonerna<br/>Alexander · Peter · Rebecca · Marie"]
   Ellen((Ellen ✝))
-  RP -- mördade --> Ellen
+  RP -- "tre av fyra mördade" --> Ellen
   Viktor -- flickvän --- Ellen
   Ellen -- fången i Ishtars ställe --> Citadellet[Chokmahs citadell]
   Ishtar -- frigjord --> Citadellet

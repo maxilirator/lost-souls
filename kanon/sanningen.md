@@ -6,7 +6,9 @@ Kulten tror att Ishtar är en uråldrig gudinna som kan ge makt och upplysning. 
 
 ## Ritualmordet — den nya sanningen
 
-De fyra rollpersonerna utförde **medvetet ett bestialiskt ockult mord** på [Ellen](../personer/ellen.md), som var [Viktors](../personer/viktor.md) flickvän. De ville tillägna sig vad de trodde var en gudinnas kraft. I själva verket frigjorde de Ishtar ur hennes fängelse. **Ellens själ tog Ishtars plats i Chokmahs citadell.**
+**Tre av de fyra rollpersonerna** utförde **medvetet ett bestialiskt ockult mord** på [Ellen](../personer/ellen.md), som var [Viktors](../personer/viktor.md) flickvän. De ville tillägna sig vad de trodde var en gudinnas kraft. I själva verket frigjorde de Ishtar ur hennes fängelse. **Ellens själ tog Ishtars plats i Chokmahs citadell.**
+
+Ellen har tre dolkhugg genom bröstkorgen, ett från varje mördare. **Den fjärde rollpersonen deltog inte i mordet**, men vaknar lika naken, blodig och minneslös som de andra.
 
 Rollpersonerna vaknar utan självbiografiska minnen i en [ritualkammare i Gränslandet](../platser/ritualkammaren.md), ett mardrömslikt område mellan Elysium och Metropolis. När de lämnat kammaren kan de aldrig finna vägen tillbaka. Ingen i kultens högkvarter vet vad de har gjort, inte ens rollpersonerna själva.
 
@@ -14,6 +16,7 @@ Rollpersonerna är också återfödda följeslagare till Ishtar; detta är en se
 
 ## Öppna frågor
 
+- **Vem av rollpersonerna deltog inte i mordet?** Var hen närvarande, och varför?
 - Vem tog initiativet till mordet, och vilken roll hade var och en?
 - Var finns Ellens kropp efter ritualen, och hur blir hennes öde känt?
 - Vad gör den frigjorda Ishtar nu?

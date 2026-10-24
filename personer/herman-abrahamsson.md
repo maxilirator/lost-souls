@@ -21,7 +21,7 @@ tradar: [identitetsmysteriet, polisutredningen]
 
 Arkeolog och kultledare i sextioårsåldern. Charmig, manipulativ, bildad, egocentrisk; i grunden antagonist. Han famlar i mörkret. Han har dokumenterat drömmar om en svart katedral och en fången kvinna, men tror inte att de är övernaturliga. Han försöker kontrollera rollpersonerna genom förfalskade självporträtt.
 
-Han intervjuar rollpersonerna efter deras återkomst. Han vet **inte** att de mördat Ellen eller frigjort Ishtar; hans okunnighet är genuin.
+Han intervjuar rollpersonerna efter deras återkomst (akt 2). Han vet **inte** att de mördat Ellen eller frigjort Ishtar; hans okunnighet är genuin.
 
 > ⚠ **Motsägelse:** Äldre text säger att han *misstänkte att ritualen kunde orsaka minnesförlust och lät andra göra den, inte väntade sig Ellens död, vill få tillbaka ritualtexten och undvika polisens misstankar*. Det förutsätter att han känner till ritualen. Se [M3](../arbete/motsagelser.md#m3-vad-vet-abrahamsson-om-ritualen).
 

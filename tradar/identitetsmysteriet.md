@@ -8,13 +8,13 @@ scener: []
 # Identitetsmysteriet
 
 ## Dramatisk fråga
-Vilka var vi – och vad gjorde vi?
+Vilka var vi – och vad gjorde vi? Och vem av oss gjorde det inte?
 
 ## Drivkraft
 Rollpersonerna minns ingenting. [Abrahamsson](../personer/herman-abrahamsson.md) intervjuar dem och försöker förstå minnesförlusten. Han försöker kontrollera dem genom manipulerade självporträtt/brev.
 
 Ledtrådarna bör stegvis skilja på tre lager:
-1. *Vilka rollpersonerna var*
+1. *Vilka rollpersonerna var* – redan i ritualkammaren: vems kläder är vems, vem är det i spegeln?
 2. *Vad de gjorde mot Ellen*
 3. *Vilka övernaturliga följder det fick*
 

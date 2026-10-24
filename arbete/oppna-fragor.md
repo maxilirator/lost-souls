@@ -5,7 +5,8 @@ Inga motsägelser, men saker som behöver skrivas innan helheten håller. Ordnad
 ## Bärande frågor (blockerar akt 3)
 
 1. **Vad vill den frigjorda Ishtar, och var är hon?** Hela slutet hänger på svaret. → [ishtar.md](../personer/ishtar.md)
-2. **Vem tog initiativet till mordet, och vilken roll hade var och en?** Styr skuldfrågan och vad varje spelare upptäcker. → [sanningen.md](../kanon/sanningen.md)
+2. **Vem av rollpersonerna deltog inte i mordet?** Var hen närvarande, sov, var drogad, försökte stoppa det? Varför är hen också naken och blodig? → [sanningen.md](../kanon/sanningen.md)
+2b. **Vem tog initiativet till mordet, och vilken roll hade var och en?** Styr skuldfrågan och vad varje spelare upptäcker. → [sanningen.md](../kanon/sanningen.md)
 3. **Hur upptäcker rollpersonerna att de mördat Ellen?** Det saknas en ledtrådskedja för just detta. → [ledtradar.md](../spelverktyg/ledtradar.md)
 4. **Kan Ellens själ nås eller räddas?** Passagen leder inte till citadellet – vad gör det då? → [chokmahs-citadell.md](../platser/chokmahs-citadell.md)
 5. **Var finns kroppen?** Se [M2](motsagelser.md#m2-var-ligger-ritualplatsen).
@@ -33,5 +34,5 @@ Inga motsägelser, men saker som behöver skrivas innan helheten håller. Ordnad
 ## Platser
 
 17. Rumsfördelningen i Templet. Var ligger Ellens rum?
-18. Hur ser Gränslandet ut utanför kammaren, och hur tar man sig till Stockholm?
+18. Är det att se Templet som för dem ut ur Gränslandet? → [granslandet.md](../platser/granslandet.md)
 19. Sodom-templet: hur länge är passagen öppen, kan man återvända?

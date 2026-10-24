@@ -1,19 +1,30 @@
 ---
 namn: Ritualkammaren i Gränslandet
 typ: rum
-del_av: Gränslandet (mellan Elysium och Metropolis)
-personer: [alexander-ehrson, peter-keller, rebecca-rosenberg, marie-alm, ellen]
-tradar: [ishtars-frigorelse, polisutredningen]
+del_av: granslandet
+personer: [alexander-ehrson, peter-keller, rebecca-rosenberg, marie-alm, ellen, steffe]
+tradar: [ishtars-frigorelse, polisutredningen, identitetsmysteriet]
 bilder: []
 ---
 # Ritualkammaren i Gränslandet
 
-Här vaknar rollpersonerna i början av [akt 1](../akter/01.md), utan minne av sina namn eller handlingar. Spåren i rummet vittnar om en våldsam ockult ceremoni: Ellens kropp, pentagrammet, blodet, ockran och den utsuddade ritualtexten.
+Här vaknar rollpersonerna i början av [akt 1](../akter/01.md), nakna och blodiga, utan minne av vilka de är.
 
-Kammaren befinner sig i **Gränslandet**, ett mardrömsrike mellan Elysium och Metropolis. När rollpersonerna lämnar den kan de **aldrig hitta tillbaka**. Detta är en egenskap hos platsen, inte en hemlig tunnel eller en påtvingad väg genom äventyret. Ingen servicetunnel leder hit.
+## Vad som finns i rummet
 
-Rollpersonerna kan gå vart de vill när de lämnar kammaren; ledtrådarna mot huset är erbjudanden, inte tvång (se [ledtrådar](../spelverktyg/ledtradar.md#till-högkvarteret)).
+- **[Ellens](../personer/ellen.md) lik** mitt i ett pentagram, med tre dolkhugg genom bröstkorgen.
+- **Klädhögar** – rollpersonernas kläder, men vems är vems? Mobiler, och troligen [ledtrådarna mot Templet](../spelverktyg/ledtradar.md#till-högkvarteret).
+- **En spegel**, där ingen känner igen sig själv.
+- Blodet, ockran och den utsuddade ritualtexten.
+
+## Vem som kommer hit
+
+[Steffe](../personer/steffe.md), en uteliggare som också sitter fast i Gränslandet.
+
+## Hur man kommer härifrån
+
+Kammaren ligger i [Gränslandet](granslandet.md). När rollpersonerna lämnar den kan de **aldrig hitta tillbaka**. Detta är en egenskap hos platsen, inte en hemlig tunnel eller en påtvingad väg genom äventyret. Ingen servicetunnel leder hit.
 
 > ⚠ **Motsägelse:** Platsbeskrivningen beskrev ritualplatsen som *en nedlagd panncentral några hundra meter från huset, nåbar via vanliga vägar*. Det strider mot Gränslandet. Se [M2](../arbete/motsagelser.md#m2-var-ligger-ritualplatsen).
 
-> **Lucka:** Hur ser Gränslandet ut för den som går ut ur kammaren, och hur tar man sig därifrån till Stockholm?
+> **Öppet:** Finns dolkarna kvar i rummet?

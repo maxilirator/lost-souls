@@ -5,7 +5,7 @@ Saker i materialet som inte går ihop. Inget av detta är ändrat i texten – d
 <a id="m1-ellens-roll-i-ritualen"></a>
 ## M1. Ellens roll i ritualen
 
-- **Ny sanning (v0.4):** Rollpersonerna mördade Ellen medvetet.
+- **Ny sanning (v0.4, preciserad 2026-10-24):** Tre av rollpersonerna mördade Ellen medvetet; den fjärde deltog inte.
 - **Kvar i [ellen.md](../personer/ellen.md):** "Deltog i ritualen och dog vid mötet med Ishtar."
 - **Konceptbilden:** Ellen bland rollpersonerna, "Ishtars ankare".
 
@@ -46,3 +46,11 @@ Kulten och akt 2 talar om *förseglade självporträtt*; personfilerna talar om 
 ## M6. Abrahamssons motiv för förfalskningarna
 
 Om han inte vet om mordet – varför förfalskar han breven så att Rebecca framstår som pådrivare? Förfalskningen av Maries brev har ett tydligt motiv (förälskelse), Peters ett rimligt (lojalitet), Rebeccas inget som stämmer med den nya sanningen. Hänger ihop med M3.
+
+<a id="m7-hur-vet-de-att-templet-ar-hem"></a>
+## M7. Hur vet de att Templet är hem?
+
+- **Akt 1 (2026-10-24):** Total självbiografisk minnesförlust. De känner inte igen sig själva i spegeln.
+- **Slutet på akt 1:** De ser Templet och *vet* att det är där de bor.
+
+Inte nödvändigtvis en motsägelse, men det behöver en förklaring. Är det en känsla som bryter igenom minnesförlusten? Eller räknar de ut det med hjälp av ledtrådarna i klädhögarna (nyckelbricka, visitkort, kvitto)? Det första säger något om Gränslandet eller om Ishtar. Det andra är en belöning för att ha undersökt.

@@ -2,7 +2,7 @@
 
 Rollspelsäventyr av Mattias Geisler och Martin Svärd. Omarbetad version (arbetsutkast v0.7).
 
-Fyra rollpersoner vaknar utan minne i en ritualkammare i Gränslandet. De har mördat Ellen, Viktors flickvän, och därmed frigjort Ishtar ur Chokmahs citadell. Ingen vet vad de har gjort, inte ens de själva. Större delen av äventyret utspelar sig i kultens hus i Stockholm, **Bet Ishtar Templet** – i vardagslag **Templet**.
+Fyra rollpersoner vaknar utan minne i en ritualkammare i Gränslandet. Tre av dem har mördat Ellen, Viktors flickvän, och därmed frigjort Ishtar ur Chokmahs citadell. Ingen vet vad de har gjort, inte ens de själva. Större delen av äventyret utspelar sig i kultens hus i Stockholm, **Bet Ishtar Templet** – i vardagslag **Templet**.
 
 ## Var finns vad
 
