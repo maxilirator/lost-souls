@@ -12,7 +12,7 @@ Regeln var: **det som redan stod i repot vinner.** Allt annat fördes in.
 - **Ishtars mål och slutvalet** → [ishtar.md](../personer/ishtar.md), [akt 3](../akter/03.md)
 - **Hur minnesförlusten fungerar** och hur karaktärsbladen delas ut → [spelverktyg/minnesforlust.md](../spelverktyg/minnesforlust.md)
 - **Stämningstexten** → [kanon/stamning.md](../kanon/stamning.md)
-- **Replokalen och ritualföremålen** → [ritualkammaren](../platser/ritualkammaren.md)
+- **Ritualföremålen**, ljusen och spegeln → [ritualkammaren](../platser/ritualkammaren.md)
 - **Abrahamsson:** sadismen, målen och vad han gör i akt 2 → [herman-abrahamsson.md](../personer/herman-abrahamsson.md)
 - **Jelena:** flykting från Serbien, spionerar → [jelena.md](../personer/jelena.md)
 - **My Lindström:** varför hon inte var med, vad hon hörde, förstärkaren → [my.md](../personer/my.md)
@@ -43,6 +43,7 @@ Allt detta finns kvar i [arkivet](../arkiv/vilsna-sjalar-original.md).
 - **Uppvaknandet i universitetets källare i Frescati** och vägen till tunnelbanan. Akt 1 utspelar sig i Gränslandet.
 - **Rollpersonerna i underkläder.** De vaknar nakna. *Notera:* porträtten visar dem i underkläder.
 - **Ellen vid pentagrammets femte spets, strypmärkena**, och att hon dog när hon omfamnade Ishtar. Hon ligger i mitten med tre dolkhugg. Se [M1](motsagelser.md#m1-ellens-roll-i-ritualen).
+- **Replokalen** med planscher, trumset, trasmattor och skyddsrumsdörr, och **bokningen i Ellens namn**. Ritualkammaren är en öde industrilokal i Gränslandet (beslut 2026-10-24).
 - **Bandet** som kommer in i replokalen, filmar och larmar polisen. Ersatt av Steffe. Polisfrågan om bandet i Frescati utgår.
 - **Akt 3:** den underjordiska gången, dubbelseendet, Södersjukhusets kulvert, liktorn i polisuniform, bårhuset och den fängslade Ishtar. Ishtar är fri och passagen leder till Sodom.
 - **Flykten genom gången när polisen kommer.** Kanon har inga tvingande flyktvägar.

@@ -4,6 +4,7 @@ Fastställda beslut. Det som står här gäller före allt annat i repot. Nyaste
 
 | Version / datum | Beslut |
 |---|---|
+| 2026-10-24 | **Ritualkammaren** är en öde industrilokal i Gränslandet. Originalets replokal utgår, liksom bokningen i Ellens namn. |
 | 2026-10-24 | **Harmonisering med originaldokumentet.** Det som redan stod i repot gäller; allt annat i originalet fördes in. Det gäller bland annat rollpersonernas bakgrund, värden, fördelar, rum och brev; det krossade upproret och Ishtars mål; Abrahamssons fynd och plan (han planerade ritualen men vet inte vad den ledde till); hur minnesförlusten fungerar; scenerna i akt 2 och de synkade nedräkningarna. Vad som anpassades eller utelämnades står i [arbete/fran-originalet.md](../arbete/fran-originalet.md). |
 | 2026-10-24 | **Namn:** Ellen Medin, My Lindström, professor Herman Abrahamsson. |
 | 2026-10-24 | **Tre mördare:** Ellen har tre dolkhugg genom bröstkorgen. En av de fyra rollpersonerna deltog inte i mordet. Vem är inte bestämt. Ersätter att alla fyra mördade henne. |

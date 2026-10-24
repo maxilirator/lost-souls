@@ -5,7 +5,7 @@ Steg som händer om rollpersonerna inte ingriper. De två nedräkningarna är sy
 ## Polisutredningen
 Tråd: [polisutredningen](../tradar/polisutredningen.md)
 
-1. **Kroppen hittas.** Polisen undersöker lokalen, förhör eventuella vittnen och misstänker mord. Genom lokalens bokningssystem hittar de Ellens namn och folkbokföringsadress. *(Hur kroppen hittas när kammaren ligger i Gränslandet är inte bestämt, se [M2](../arbete/motsagelser.md#m2-var-ligger-ritualplatsen).)*
+1. **Kroppen hittas.** Polisen undersöker fyndplatsen, förhör eventuella vittnen och misstänker mord. De identifierar Ellen och får fram hennes folkbokföringsadress. *(Hur kroppen hittas och hur Ellen identifieras när kammaren ligger i Gränslandet är inte bestämt, se [M2](../arbete/motsagelser.md#m2-var-ligger-ritualplatsen).)*
 2. **Första besöket.** Två poliser kommer till Templet med beslut om husrannsakan i Ellens rum och förhör de boende. De hittar terrakottafigurerna. Se [polisförhöret](../scener/polisforhoret.md). ⇄ Ishtar 2
 3. **Nyheterna.** My visar nyheterna på sin mobil: ett ritualmord i Stockholm.
 4. **Andra besöket.** Fyra poliser återvänder med beslut om husrannsakan som även gäller rollpersonerna. Om de inte frivilligt lämnat DNA-prov tvingas de testas. När poliserna öppnar Ellens garderob flyger spyflugorna ut. ⇄ Ishtar 4

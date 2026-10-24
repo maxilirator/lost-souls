@@ -17,11 +17,14 @@ Mordet är kanon. Frågan är vad som finns kvar av originalet. **Förslag:** El
 ### M2. Hur hittar polisen kroppen?
 
 - **Kanon (v0.4):** Ritualkammaren ligger nu i Gränslandet och kan aldrig återfinnas.
-- **Originalet:** Ritualen hölls i en replokal på universitetet som Ellen hade bokat. Ett band kom in, polisen hittade kroppen och fick fram Ellens namn genom bokningssystemet.
+- **Kanon (2026-10-24):** Ritualkammaren är en öde industrilokal i Gränslandet – ingen replokal.
+- **Originalet:** Ritualen hölls i en replokal på universitetet som Ellen hade bokat. Ett band kom in, polisen hittade kroppen och fick fram Ellens namn genom bokningssystemet. Det spåret finns inte längre.
 
 Hela polisutredningen (förhöret, DNA, SÄPO, gripandet) bygger på att kroppen hittas.
 
-**Förslag:** Akt 1 säger att kammaren *nu* ligger i Gränslandet. Ritualen kan ha hållits i en vanlig replokal i Elysium, bokad av Ellen, som gled in i Gränslandet när Illusionen luckrades upp. Rollpersonerna hittar aldrig tillbaka – men replokalen finns kvar i Elysium, och där hittar någon kroppen. Då håller både Gränslandet och polisspåret.
+Det som behöver bestämmas är **hur kroppen når Elysium** och **hur Ellen identifieras** utan bokningen.
+
+**Förslag:** Akt 1 säger att kammaren *nu* ligger i Gränslandet. Industrilokalen kan finnas i Elysium också – rollpersonerna hittar aldrig tillbaka, men där hittar någon annan kroppen. Ellen kan identifieras genom en anmälan om försvinnande (Viktor?) eller genom något hon bar på sig.
 
 <a id="m7-hur-vet-de-att-templet-ar-hem"></a>
 ### M7. Hur vet de att Templet är hem?

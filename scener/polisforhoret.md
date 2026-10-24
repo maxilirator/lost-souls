@@ -14,6 +14,8 @@ status: utkast
 
 > *"Vi har hittat en kvinna död i en lokal som bokats i det här namnet. Vi försöker bara reda ut vad som hänt."*
 
+> ⚠ **Motsägelse:** Repliken kommer från originalet, där Ellen hade bokat replokalen. Ritualkammaren är nu en öde industrilokal i Gränslandet, så repliken behöver skrivas om när det är bestämt hur polisen hittar och identifierar henne. Se [M2](../arbete/motsagelser.md#m2-var-ligger-ritualplatsen).
+
 ## Förlopp
 
 **Ellens rum.** Poliserna söker först igenom [Ellens rum](../platser/ellens-rum.md). Det som tidigare var tomt rymmer nu tre stiliserade terrakottafigurer: tre sammanflätade kvinnokroppar. Poliserna ser dem som märkliga prydnadsföremål, men rollpersonerna tycker sig känna igen dem som fertilitetsfigurer från bronsålderns Levanten. Symbolerna som täcker figurerna liknar dem rollpersonerna vaknade med. Poliserna fotograferar figurerna och konstaterar att symbolerna påminner om dem på kroppen.

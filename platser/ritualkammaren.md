@@ -12,7 +12,11 @@ Här vaknar rollpersonerna i början av [akt 1](../akter/01.md), nakna och blodi
 
 ## Rummet
 
-En fönsterlös källarlokal, en gammal replokal. Luften är inrökt. Mörka tyger hänger längs väggarna, och nötta planscher med 90-talsband som Rage Against the Machine, Rammstein och The Cranberries sitter kvar. Ett trumset står uppställt intill väggen. Trasmattorna är skjutna åt sidan för pentagrammet, målat i ockra och blod. På dammiga hyllor och förstärkare står nedbrunna stumpar av svarta stearinljus. Två tjocka blockljus lyser upp rummet. Dörren ut är en skyddsrumsdörr.
+En **öde industrilokal** i Gränslandet. På golvet är pentagrammet målat i ockra och blod. Runt omkring står nedbrunna stumpar av svarta stearinljus, och två tjocka blockljus lyser upp rummet.
+
+[Ritualbilden](../bilder/ritualen.png) visar stämningen: betong, träbalkar och kedjor som hänger från taket.
+
+> **Förslag:** Ett tidigare utkast beskrev ritualplatsen som en nedlagd panncentral eller mindre industrilokal, med låst entré, få eller inga fönster och ett stort källarrum. Det kan ge rummet sin form.
 
 ## Vad som finns här
 
