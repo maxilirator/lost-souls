@@ -1,8 +1,8 @@
 # Teorierna om Sodom och Gomorra
 
-Det här är vad rollpersonerna har studerat, och det de minns när de fått veta det från en extern källa (se [minnesförlusten](minnesforlust.md#kunskap-som-kommer-tillbaka)). Kan läsas upp eller delas ut.
+Det här är vad rollpersonerna har läst i kulten, och det de minns när de fått veta det från en extern källa (se [minnesförlusten](minnesforlust.md#kunskap-som-kommer-tillbaka)). Kan läsas upp eller delas ut.
 
-Abrahamssons studiecirklar handlar om mellersta bronsålderns religion i Levanten, ca 2000–1550 f.Kr., området mellan Egypten och Mesopotamien.
+Kultens läsning kretsar kring mellersta bronsålderns religion i Levanten, ca 2000–1550 f.Kr., området mellan Egypten och Mesopotamien.
 
 ## Bibeln (1 Mosebok 18–19)
 

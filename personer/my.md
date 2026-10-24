@@ -7,7 +7,7 @@ relationer:
   - person: alexander-ehrson
     relation: tror att han är elektriker och ber honom laga förstärkaren
 platser: [templet]
-tradar: [identitetsmysteriet, polisutredningen]
+tradar: [identitetsmysteriet]
 ---
 # My Lindström
 
@@ -17,7 +17,7 @@ tradar: [identitetsmysteriet, polisutredningen]
 
 Den senaste att flytta in i [Templet](../platser/templet.md). Hon flyttade in för en vecka sedan – egentligen skulle hon inte komma förrän i mitten av november, men hon tog sig friheten att flytta in tidigare. Det ställde till det för professorns planer. Han uppmanade de andra att ta med henne på ritualen, men de litade inte på henne och kom överens om att hålla tyst.
 
-My har ingen aning om vad som hänt och har inte riktigt lärt sig de andras namn ännu. Hon vill gärna passa in och bli en del av gruppen, som verkar stå varandra nära och brinna för sina studier. En sak irriterar henne lite, även om hon är beredd att acceptera det: hon har uppenbarligen mycket större städområde än de andra.
+My har ingen aning om vad som hänt och har inte riktigt lärt sig de andras namn ännu. Hon vill gärna passa in och bli en del av gruppen, som verkar stå varandra nära och brinna för det de läser. En sak irriterar henne lite, även om hon är beredd att acceptera det: hon har uppenbarligen mycket större städområde än de andra.
 
 ## Första mötet
 
@@ -30,7 +30,6 @@ Använd My för att ge ledtrådar om vilka rollpersonerna var före minnesförlu
 - Hon kan **ifrågasätta breven** de skrivit om sig själva, eller påpeka att någon inte har sina egna kläder på sig.
 - Hon tjuvlyssnade innan de gav sig av och hörde dem **repetera fraser på ett främmande språk**.
 - Hon hörde dem diskutera **vem som skulle ge blod** att blanda med ockran – och om ritualen skulle få någon effekt eller inte.
-- När polisen kommer är hon den enda som kan visa giltig legitimation.
 
 ## Hennes rum
 

@@ -10,7 +10,7 @@ Först när de använder något märker de om de behärskar det, och hur väl.
 
 ## Kunskap som kommer tillbaka
 
-De minns inte vad de lärt sig utan hjälp. Men **om de får veta det från en extern källa kommer kunskapen tillbaka.** När de till exempel har förstått att de studerat teorierna om Sodom och Gomorra minns Marie, Peter och Rebecca plötsligt omfattande fakta om Levanten under mellanbronsåldern (se [teorierna om Sodom](sodom-teorierna.md)). Alexander minns nästan ingenting, eftersom han aldrig läste litteraturen.
+De minns inte vad de lärt sig utan hjälp. Men **om de får veta det från en extern källa kommer kunskapen tillbaka.** När de till exempel har förstått att de läst om teorierna om Sodom och Gomorra minns Marie, Peter och Rebecca plötsligt omfattande fakta om Levanten under mellanbronsåldern (se [teorierna om Sodom](sodom-teorierna.md)). Alexander minns nästan ingenting, eftersom han aldrig läste litteraturen.
 
 ## Varför
 

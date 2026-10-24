@@ -4,7 +4,9 @@ Alla som går med i kulten skriver ett ärligt och personligt brev om vilka de �
 
 > **Spelledarhemlighet:** Abrahamsson har i hemlighet öppnat och ändrat rollpersonernas kuvert. Han delar ut dem när han är övertygad om att de inte minns något av vilka de var. [My](../personer/my.md) kan ifrågasätta innehållet. Se [identitetsmysteriet](../tradar/identitetsmysteriet.md).
 
-Breven nedan är spelarutdelningar. Texterna är originalets, med ordet *kursen* ersatt med kollektivet i Templet.
+Breven nedan är spelarutdelningar. Texterna är originalets, anpassade till kulten i Templet.
+
+> ⚠ **Motsägelse:** Abrahamssons personfil säger att han skriver breven *efter* ritualen, inte att han ändrar deras egna i förväg. Anteckningarna under varje brev bygger på den äldre versionen. Se [M8](../arbete/motsagelser.md#m8-nar-skrivs-breven).
 
 ---
 

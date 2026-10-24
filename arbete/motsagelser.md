@@ -13,29 +13,29 @@ Saker i materialet som inte går ihop. De markeras med ⚠ i de berörda filerna
 
 Mordet är kanon. Frågan är vad som finns kvar av originalet. **Förslag:** Ellen deltog frivilligt i ritualen och gav sitt blod till ockran – hon visste inte att hon var offret. Det ger bandaget en mening och gör mordet till ett svek. Strypmärkena utgår.
 
-<a id="m2-var-ligger-ritualplatsen"></a>
-### M2. Hur hittar polisen kroppen?
-
-- **Kanon (v0.4):** Ritualkammaren ligger nu i Gränslandet och kan aldrig återfinnas.
-- **Kanon (2026-10-24):** Ritualkammaren är en öde industrilokal i Gränslandet – ingen replokal.
-- **Originalet:** Ritualen hölls i en replokal på universitetet som Ellen hade bokat. Ett band kom in, polisen hittade kroppen och fick fram Ellens namn genom bokningssystemet. Det spåret finns inte längre.
-
-Hela polisutredningen (förhöret, DNA, SÄPO, gripandet) bygger på att kroppen hittas.
-
-Det som behöver bestämmas är **hur kroppen når Elysium** och **hur Ellen identifieras** utan bokningen.
-
-**Förslag:** Akt 1 säger att kammaren *nu* ligger i Gränslandet. Industrilokalen kan finnas i Elysium också – rollpersonerna hittar aldrig tillbaka, men där hittar någon annan kroppen. Ellen kan identifieras genom en anmälan om försvinnande (Viktor?) eller genom något hon bar på sig.
-
 <a id="m7-hur-vet-de-att-templet-ar-hem"></a>
 ### M7. Hur vet de att Templet är hem?
 
 - **Akt 1 (2026-10-24):** Total självbiografisk minnesförlust. De känner inte igen sig själva i spegeln.
 - **Slutet på akt 1:** De ser Templet och *vet* att det är där de bor.
-- **Originalet:** De identiska husnycklarna leder hem, och professorns visitkort ger en adress.
+- **Originalet:** De identiska husnycklarna leder hem. (Visitkortet med adress är borttaget.)
 
-Är det en känsla som bryter igenom minnesförlusten (originalet: de *kan känna igen en plats utan att veta varför*), eller räknar de ut det med hjälp av nycklarna och visitkortet? Det första säger något om Gränslandet eller om Ishtar. Det andra är en belöning för att ha undersökt.
+Är det en känsla som bryter igenom minnesförlusten (originalet: de *kan känna igen en plats utan att veta varför*), eller räknar de ut det med hjälp av nycklarna? Det första säger något om Gränslandet eller om Ishtar. Det andra är en belöning för att ha undersökt.
+
+<a id="m8-nar-skrivs-breven"></a>
+### M8. När skrivs breven?
+
+- **[Abrahamsson](../personer/herman-abrahamsson.md#vad-han-gör) (ändrad 2026-10-24):** Han *skriver* breven efter ritualen, när han förstått att rollpersonerna inte minns något, för att manipulera dem.
+- **[Sanningen](../kanon/sanningen.md#abrahamssons-fynd-och-plan) och [breven](../spelverktyg/breven.md):** Rollpersonerna skrev breven själva när de gick med och lämnade in dem i förseglade kuvert. Abrahamsson öppnade och ändrade dem i förväg.
+
+Anteckningarna till varje brev bygger på den äldre versionen: Rebeccas första stycke är sant, Peter skrev egentligen tvärtom, Alexanders brev är hans egen täckhistoria. Om Abrahamsson skriver breven från grunden efteråt finns inga original, och det sanna i breven är bara det han vet om dem. Kultens förseglade självporträtt finns kvar som sed – men är det deras egna texter rollpersonerna får tillbaka, eller Abrahamssons?
 
 ## Lösta
+
+<a id="m2-var-ligger-ritualplatsen"></a>
+### M2. Hur hittar polisen kroppen? – *löst 2026-10-24*
+Den gör det inte. Ellens död sker i Gränslandet, dit polisen inte kommer. Polisspåret utgår.
+
 
 ### M3. Vad vet Abrahamsson om ritualen? – *löst 2026-10-24 av originalet*
 Han planerade ritualen och visste att den kostar minnet, men han vet inte vad den ledde till: mordet och Ishtars frigörelse. Se [sanningen](../kanon/sanningen.md#abrahamssons-fynd-och-plan).

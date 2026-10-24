@@ -14,7 +14,7 @@ Kulten bor i [Templet](../platser/templet.md), officiellt *Bet Ishtar Templet*.
 
 ## Vardagsliv och obehag
 
-Gemensamma måltider, meditation, studier, drömjournaler och ritualer ger en verklig känsla av samhörighet. Samtidigt används bekännelser, förseglade självporträtt, reningsnätter, lojalitetsprov och övervakning för att skapa lydnad. Abrahamsson har manipulerat rollpersonernas självporträtt – [breven](../spelverktyg/breven.md) de lämnade in i förseglade kuvert. Kultens löfte om frihet står i direkt motsats till dess sociala kontroll.
+Gemensamma måltider, meditation, läsning, drömjournaler och ritualer ger en verklig känsla av samhörighet. Medlemmarna läser relevant forntida litteratur, både tillsammans i biblioteket och på egen hand. Samtidigt används bekännelser, förseglade självporträtt, reningsnätter, lojalitetsprov och övervakning för att skapa lydnad. Abrahamsson har manipulerat rollpersonernas självporträtt – [breven](../spelverktyg/breven.md) de lämnade in i förseglade kuvert. Kultens löfte om frihet står i direkt motsats till dess sociala kontroll.
 
 ### Obehagliga inslag – maktens vardag
 

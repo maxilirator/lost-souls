@@ -3,7 +3,7 @@ namn: Ellens rum
 typ: rum
 del_av: templet
 personer: [ellen, viktor]
-tradar: [ishtars-frigorelse, polisutredningen, viktor-soker-ellen]
+tradar: [ishtars-frigorelse, viktor-soker-ellen]
 bilder: []
 ---
 # Ellens rum
@@ -19,6 +19,5 @@ Efter ritualen blir rummet centrum för övernaturliga förändringar. Förloppe
 
 Passagen är en möjlighet, inte en påtvingad färdväg. Spelarna väljer själva om de går igenom.
 
-När polisen identifierar Ellen kommer de hit för att undersöka rummet, se [polisförhöret](../scener/polisforhoret.md).
 
 > **Öppet:** Var i rummet öppnas passagen? I originalet sprack garderobsgolvet upp och blottade en nedgång med rostiga steghantag – men den ledde till Södersjukhusets kulvert, som inte längre gäller.

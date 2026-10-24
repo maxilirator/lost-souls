@@ -17,7 +17,7 @@ relationer:
   - person: ishtar
     relation: dyrkar henne utan att förstå henne; drömmer om henne
 platser: [templet]
-tradar: [identitetsmysteriet, polisutredningen, abrahamsson-och-marie]
+tradar: [identitetsmysteriet, abrahamsson-och-marie]
 ---
 # Professor Herman Abrahamsson
 
@@ -51,5 +51,4 @@ Biblioteket, arbetsrummet och bostaden på vinden i Templet, se [Templet](../pla
 
 - [Identitetsmysteriet](../tradar/identitetsmysteriet.md)
 - [Abrahamsson och Marie](../tradar/abrahamsson-och-marie.md)
-- [Polisutredningen](../tradar/polisutredningen.md)
 - Akt 3: vad gör han när han förstår att hans forskning faktiskt gett resultat?

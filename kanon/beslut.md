@@ -4,6 +4,8 @@ Fastställda beslut. Det som står här gäller före allt annat i repot. Nyaste
 
 | Version / datum | Beslut |
 |---|---|
+| 2026-10-24 | **Inget polisspår.** Ellens död sker i Gränslandet, dit polisen inte kommer. Kroppen blir kvar där. Polisutredningen, polisförhöret och gripandet utgår. |
+| 2026-10-24 | **En kult, ingen utbildning.** Medlemmarna läser relevant forntida litteratur, men det finns ingen kurs, inga prov och inga studenter. Provet i biblioteket utgår. |
 | 2026-10-24 | **Ritualkammaren** är en öde industrilokal i Gränslandet. Originalets replokal utgår, liksom bokningen i Ellens namn. |
 | 2026-10-24 | **Harmonisering med originaldokumentet.** Det som redan stod i repot gäller; allt annat i originalet fördes in. Det gäller bland annat rollpersonernas bakgrund, värden, fördelar, rum och brev; det krossade upproret och Ishtars mål; Abrahamssons fynd och plan (han planerade ritualen men vet inte vad den ledde till); hur minnesförlusten fungerar; scenerna i akt 2 och de synkade nedräkningarna. Vad som anpassades eller utelämnades står i [arbete/fran-originalet.md](../arbete/fran-originalet.md). |
 | 2026-10-24 | **Namn:** Ellen Medin, My Lindström, professor Herman Abrahamsson. |

@@ -3,7 +3,7 @@ namn: Identitetsmysteriet
 status: under arbete
 personer: [alexander-ehrson, peter-keller, rebecca-rosenberg, marie-alm, herman-abrahamsson, my, jelena]
 platser: [templet, ritualkammaren]
-scener: [abrahamssons-bibliotek, my-vid-brasan, provet-i-biblioteket, polisforhoret]
+scener: [abrahamssons-bibliotek, my-vid-brasan]
 ---
 # Identitetsmysteriet
 
@@ -11,7 +11,7 @@ scener: [abrahamssons-bibliotek, my-vid-brasan, provet-i-biblioteket, polisforho
 Vilka var vi – och vad gjorde vi? Och vem av oss gjorde det inte?
 
 ## Drivkraft
-Rollpersonerna minns ingenting (se [minnesförlusten](../spelverktyg/minnesforlust.md)). [Abrahamsson](../personer/herman-abrahamsson.md) vill få dem att tro att de själva tog initiativet till ritualen, och han styr vad de får veta om sig själva genom de manipulerade [breven](../spelverktyg/breven.md). [Jelena](../personer/jelena.md) spionerar åt honom.
+Rollpersonerna minns ingenting (se [minnesförlusten](../spelverktyg/minnesforlust.md)). [Abrahamsson](../personer/herman-abrahamsson.md) styr vad de får veta om sig själva genom de manipulerade [breven](../spelverktyg/breven.md). [Jelena](../personer/jelena.md) spionerar åt honom.
 
 Ledtrådarna bör stegvis skilja på tre lager:
 1. *Vilka rollpersonerna var* – redan i ritualkammaren: vems kläder är vems, vem är det i spegeln?
@@ -32,8 +32,6 @@ Ledtrådarna bör stegvis skilja på tre lager:
 ## Scener
 - [Mottagningen i biblioteket](../scener/abrahamssons-bibliotek.md) – han ger dem deras namn men säger att han inte känner dem närmare.
 - [My vid brasan](../scener/my-vid-brasan.md)
-- [Provet i biblioteket](../scener/provet-i-biblioteket.md)
-- [Polisförhöret](../scener/polisforhoret.md) – de kan inte ens säga sina personnummer.
 
 <a id="abrahamssons-arbetsrum"></a>
 ## Abrahamssons arbetsrum
@@ -42,7 +40,7 @@ Att **undersöka** professorns arbetsrum tar flera timmar. De måste gå igenom 
 
 När de är klara förstår de att **det är han som fått dem att utföra ritualen**, och att han gjorde det trots att han förstod att de skulle förlora minnet. De förstår också att han **manipulerat deras brev**. Information om vilka de är och vilka personnummer de har finns inte där.
 
-På 10–14 utsätts de för fara eller andra komplikationer – till exempel att de måste ta sig till bårhuset och studera de ockulta symbolerna på Ellens kropp.
+På 10–14 utsätts de för fara eller andra komplikationer.
 
 ## Ledtrådar
 Se [ledtrådskedjor](../spelverktyg/ledtradar.md#till-falska-identiteter).

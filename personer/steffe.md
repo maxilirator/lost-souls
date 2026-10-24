@@ -19,4 +19,4 @@ Det är inte första gången Steffe ser lik och död. Han har sett kackerlacksli
 
 Han är rädd att rollpersonerna ska döda honom, men ber ändå om pengar till en kopp kaffe.
 
-> **Öppet:** Vad vet Steffe om Gränslandet, och kan han hjälpa dem därifrån? Han är den förste som ser dem efter mordet. Kan han dyka upp igen, till exempel i polisutredningen?
+> **Öppet:** Vad vet Steffe om Gränslandet, och kan han hjälpa dem därifrån? Han är den förste som ser dem efter mordet. Kan han dyka upp igen?

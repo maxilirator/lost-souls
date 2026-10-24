@@ -13,7 +13,7 @@ relationer:
   - person: ishtar
     relation: återfödd följeslagare till henne (vet inte om det)
 platser: [templet, ritualkammaren]
-tradar: [polisutredningen, identitetsmysteriet]
+tradar: [identitetsmysteriet]
 ---
 # Alexander Ehrson – SÄPO-agenten
 

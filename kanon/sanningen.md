@@ -20,6 +20,8 @@ När historiska och arkeologiska metoder inte längre räckte fördjupade han si
 
 - Han valde ut rollpersonerna för att de hade **svaga sociala band**: ingen skulle sakna dem.
 - Han lät dem skriva om sig själva och lämna in texterna i förseglade kuvert. I hemlighet öppnade han och ändrade dem, för att kunna ge dem tillbaka när de kom tillbaka utan minnen. Se [breven](../spelverktyg/breven.md).
+
+> ⚠ **Motsägelse:** Abrahamssons personfil säger nu att han skriver breven *efter* ritualen. Se [M8](../arbete/motsagelser.md#m8-nar-skrivs-breven).
 - Han drömmer om en fången kvinna i ett svart citadell men tror att drömmarna är vanliga drömmar.
 
 **Han vet inte vad ritualen ledde till.** Han vet inte att Ellen mördades eller att Ishtar frigjordes. Han förstod att det fanns risker, men han var inte beredd på att någon skulle dö.
@@ -56,7 +58,7 @@ Ishtar vill samla sina forna bundsförvanter och fullfölja det uppror som en g�
 
 - **Vem av rollpersonerna deltog inte i mordet?** Var hen närvarande, och varför?
 - Vem tog initiativet till mordet, och vilken roll hade var och en?
-- Var finns Ellens kropp efter ritualen, och hur blir hennes öde känt? Se [M2](../arbete/motsagelser.md#m2-var-ligger-ritualplatsen).
+- Hur blir Ellens öde känt? Kroppen blir kvar i Gränslandet, dit polisen aldrig kommer.
 - Var tog rollpersonernas minnen vägen? De strömmade in i citadellet.
 - Hur kan rollpersonerna få kunskap om Ellens fångenskap?
 

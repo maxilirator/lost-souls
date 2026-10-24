@@ -17,7 +17,7 @@ relationer:
   - person: ishtar
     relation: har tagit hennes plats i citadellet
 platser: [ellens-rum, chokmahs-citadell, ritualkammaren]
-tradar: [viktor-soker-ellen, ishtars-frigorelse, polisutredningen]
+tradar: [viktor-soker-ellen, ishtars-frigorelse]
 ---
 # Ellen Medin
 
@@ -37,5 +37,5 @@ Ligger mitt i pentagrammet med tre dolkhugg genom bröstkorgen. Runt ena armen h
 
 ## Öppet
 - Vem var Ellen som människa? Utöver utseendet saknar hon personlighet i materialet.
-- Var finns kroppen efter att rollpersonerna lämnat kammaren? Se [M2](../arbete/motsagelser.md#m2-var-ligger-ritualplatsen).
+- Kroppen blir kvar i Gränslandet, dit polisen aldrig kommer. Vem utom Viktor saknar henne?
 - Kan hon nås i citadellet? Originalets utkast har idén *"Ellen kommer tillbaka"*.

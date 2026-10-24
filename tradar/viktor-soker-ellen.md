@@ -18,7 +18,7 @@ Hur reagerar Viktor när sanningen kommer fram – och vad gör rollpersonerna n
 2. Akt 2: Oron växer.
 3. Akt 3: Sanningen kan komma fram.
 
-> **Lucka:** Inga konkreta steg i akt 2. Vad gör Viktor själv för att hitta henne? Kopplas han till [polisutredningen](polisutredningen.md) (anmäler han henne försvunnen)?
+> **Lucka:** Inga konkreta steg i akt 2. Vad gör Viktor själv för att hitta henne?
 
 ## Möjliga slut
 Öppet.

@@ -17,10 +17,9 @@ Regeln var: **det som redan stod i repot vinner.** Allt annat fördes in.
 - **Jelena:** flykting från Serbien, spionerar → [jelena.md](../personer/jelena.md)
 - **My Lindström:** varför hon inte var med, vad hon hörde, förstärkaren → [my.md](../personer/my.md)
 - **Ellen Medin:** utseende, kläder, det tömda rummet → [ellen.md](../personer/ellen.md), [ellens-rum.md](../platser/ellens-rum.md)
-- **Scener:** mottagningen, My vid brasan, polisförhöret, provet, erbjudandet till Marie → [scener/](../scener/README.md)
-- **Nedräkningarna**, synkade, med spyflugorna och sandvinden → [nedrakningar.md](../spelverktyg/nedrakningar.md)
+- **Scener:** mottagningen, My vid brasan, erbjudandet till Marie → [scener/](../scener/README.md)
+- **Nedräkningen** för Ishtars frigörelse, med spyflugorna och sandvinden → [nedrakningar.md](../spelverktyg/nedrakningar.md)
 - **Teorierna om Sodom** → [spelverktyg/sodom-teorierna.md](../spelverktyg/sodom-teorierna.md)
-- **Gripandet som möjligt slut** → [polisutredningen](../tradar/polisutredningen.md#möjliga-slut)
 
 ## Anpassat
 
@@ -28,9 +27,8 @@ Regeln var: **det som redan stod i repot vinner.** Allt annat fördes in.
 |---|---|---|
 | Studentkollektivet på Själagårdsgatan 15B, Gamla stan | Templet i Liljeholmen | Templet är kanon |
 | Abrahamssons etagelägenhet, Själagårdsgatan 15A | Vindsvåningen i Templet | Templet är kanon |
-| Kursen *Forntida civilisationers kultur och samhällsliv* | Abrahamssons studiecirklar | Rollpersonerna är kultmedlemmar, inte kursdeltagare |
+| Kursen *Forntida civilisationers kultur och samhällsliv* | Kultmedlemmarna läser relevant forntida litteratur | Det är en kult, inte en utbildning |
 | "Kursen", "studentboendet", "utbildningen" i breven | "hit", "kollektivet", "tiden här" | Samma skäl; i övrigt ordagrant |
-| Visitkortet med adressen Själagårdsgatan 15a | Visitkortet utan adress | Templets adress är inte bestämd |
 | Nycklarna leder till kollektivet | Nycklarna leder till Templet | Templet är kanon |
 | Nyhetsrubriken "Ritualmord på campus" | Ett ritualmord i Stockholm | Inget campus i akt 1 |
 | Brak och nedgång i garderobsgolvet | Braket finns kvar; det öppnar passagen till Sodom | Passagen är kanon (v0.6) |
@@ -39,6 +37,10 @@ Regeln var: **det som redan stod i repot vinner.** Allt annat fördes in.
 ## Inte infört
 
 Allt detta finns kvar i [arkivet](../arkiv/vilsna-sjalar-original.md).
+
+- **Polisspåret:** polisförhöret, DNA-proven, nyheterna, gripandet med hundpatrullerna och fängelseslutet, Abrahamssons besök i bårhuset och hans falska uppgifter om Rebecca. Ellens död sker i Gränslandet, dit polisen inte kommer (beslut 2026-10-24). SÄPO-kontakten finns kvar, utan DNA-analysen.
+- **Provet i biblioteket**, uppsatserna och föreläsningarna. Det är en kult, inte en utbildning (beslut 2026-10-24).
+- **Visitkortet** i Alexanders jacka (borttaget av er 2026-10-24).
 
 - **Uppvaknandet i universitetets källare i Frescati** och vägen till tunnelbanan. Akt 1 utspelar sig i Gränslandet.
 - **Rollpersonerna i underkläder.** De vaknar nakna. *Notera:* porträtten visar dem i underkläder.
@@ -54,7 +56,6 @@ Allt detta finns kvar i [arkivet](../arkiv/vilsna-sjalar-original.md).
 
 **Förslag**, inte beslut:
 
-- **Liktorn** – 2,5 meter, groteskt fet, mjölkvita ögon, som en polis i Elysium. Han kan passa i polisutredningen, utan kulverten.
+- **Liktorn** – 2,5 meter, groteskt fet, mjölkvita ögon, som en polis i Elysium.
 - **Dubbelseendet** – två verkligheter samtidigt, där ett hopp i Metropolis är ett steg i Elysium. Det kan beskriva hur Gränslandet känns.
-- **Kursen** som Abrahamssons rekryteringskanal till kulten, med kultstatus på universitetet.
 - **Änglarna** som judiska underrättelseagenter som letar efter Ellen.

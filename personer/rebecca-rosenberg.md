@@ -37,7 +37,7 @@ Professorn har svårt för hennes överklassattityd och har flera gånger ångra
 
 ## Rummet i Templet
 
-En större svit med eget badrum. Ombonad med rökelse, blommor, olika lampor och röda gardiner. Den bärbara datorn på skrivbordet är låst. Förutom studielitteraturen finns en rad magasin om företagande, aktier och omvärldsanalyser, internationella kontakter och finansiella handlingar. Allt är på engelska, utom **en Tora på hebreiska vid sängen**. När hon öppnar den märker hon att hon kan läsa hebreiska. I garderoben hänger diskreta, lyxiga plagg i business casual.
+En större svit med eget badrum. Ombonad med rökelse, blommor, olika lampor och röda gardiner. Den bärbara datorn på skrivbordet är låst. Förutom kultens litteratur om forntiden finns en rad magasin om företagande, aktier och omvärldsanalyser, internationella kontakter och finansiella handlingar. Allt är på engelska, utom **en Tora på hebreiska vid sängen**. När hon öppnar den märker hon att hon kan läsa hebreiska. I garderoben hänger diskreta, lyxiga plagg i business casual.
 
 ## Bakom skärmen
 
@@ -54,4 +54,3 @@ När du kliver fram och tar kommandot, **slå +Utstrålning**:
 ## Trådar
 
 - [Identitetsmysteriet](../tradar/identitetsmysteriet.md): brevet pekar ut henne som den som drev på ritualen.
-- [Polisutredningen](../tradar/polisutredningen.md): Abrahamsson ger polisen falska uppgifter om henne – överdrivet intresserad av ritualer, har försökt övertala de andra, luktar ofta cannabis.

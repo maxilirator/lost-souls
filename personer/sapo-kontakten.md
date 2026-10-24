@@ -7,16 +7,15 @@ relationer:
   - person: alexander-ehrson
     relation: kollega; berättar för honom vem han är
 platser: [templet]
-tradar: [polisutredningen]
+tradar: [identitetsmysteriet]
 ---
 # SÄPO-kontakten
 
 *Spelledarperson · Arbetsutkast*
 
-En undercoveragent från Säkerhetspolisen. När DNA-analysen visar att en av deras egna är bland de misstänkta för mordet söker hen upp rollpersonerna i [Templet](../platser/templet.md) och talar med [Alexander](alexander-ehrson.md).
+En undercoveragent från Säkerhetspolisen som söker upp [Alexander](alexander-ehrson.md) och berättar för honom vem han är:
 
 - Alexander får veta sin sanna identitet: **Axel Ehrenborg**.
 - Han får order att fortsätta sitt uppdrag.
-- Agenten berättar också att rollpersonerna kan häktas när som helst, eftersom deras DNA har påträffats på Ellen.
 
-Se [nedräkningen](../spelverktyg/nedrakningar.md#polisutredningen), steg 5.
+> **Öppet:** Vad får SÄPO att höra av sig? I originalet var det en DNA-analys i en polisutredning, som har utgått. **Förslag:** Alexander har slutat rapportera, och SÄPO vill veta varför.

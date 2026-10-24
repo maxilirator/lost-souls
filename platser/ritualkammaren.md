@@ -3,7 +3,7 @@ namn: Ritualkammaren i Gränslandet
 typ: rum
 del_av: granslandet
 personer: [alexander-ehrson, peter-keller, rebecca-rosenberg, marie-alm, ellen, steffe]
-tradar: [ishtars-frigorelse, polisutredningen, identitetsmysteriet]
+tradar: [ishtars-frigorelse, identitetsmysteriet]
 bilder: [../bilder/ritualen.png]
 ---
 # Ritualkammaren i Gränslandet
@@ -26,7 +26,6 @@ En **öde industrilokal** i Gränslandet. På golvet är pentagrammet målat i o
   - **Mobiler**, avstängda och omöjliga att låsa upp (se [Gränslandet](granslandet.md)).
   - **Husnycklar**, identiska, som leder till [Templet](templet.md).
   - **Inga kreditkort, körkort eller legitimationer.** Allt sådant finns i de låsta mobilerna.
-  - **Visitkortet** i Alexanders jacka: *Professor Herman Abrahamsson, Institutionen för fornarkeologi, Stockholms universitet.*
 - **Ritualföremål** på golvet: en blodig skalpell, två bägare med rester av blod och en zip-lockpåse märkt "ockra".
 - **Ritualtexten**, ett papper med instruktioner. Nästan all text är utsuddad, trots att den är skriven med vanlig bläckpenna – det är Illusionen som suddat ut spåren av det övernaturliga när den slöt sig igen. Man kan dock utläsa ord som "ritual", "Ishtar" och "pentagram med ockra och blod", och se tecken som liknar dem på deras kroppar.
 - **Stearinljusen.** Blockljusen har brunnit länge, upp till ett halvt dygn.
@@ -42,6 +41,6 @@ En **öde industrilokal** i Gränslandet. På golvet är pentagrammet målat i o
 
 Kammaren ligger i [Gränslandet](granslandet.md). När rollpersonerna lämnar den kan de **aldrig hitta tillbaka**. Detta är en egenskap hos platsen, inte en hemlig tunnel eller en påtvingad väg genom äventyret. Ingen servicetunnel leder hit.
 
-> ⚠ **Motsägelse:** Hur hittar polisen kroppen? Se [M2](../arbete/motsagelser.md#m2-var-ligger-ritualplatsen).
+> **Spelledarhemlighet:** Ellens kropp blir kvar här. Polisen kommer aldrig till Gränslandet.
 
 > **Öppet:** Finns dolkarna kvar i rummet? Skalpellen finns där.

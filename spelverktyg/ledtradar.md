@@ -3,7 +3,7 @@
 Ledtrådar är erbjudanden, inte tvång.
 
 ## Till högkvarteret
-I klädhögarna i [ritualkammaren](../platser/ritualkammaren.md): identiska husnycklar och professor Abrahamssons visitkort i Alexanders jacka. Nyckelbricka och kvitto finns också nämnda; var de finns är inte bestämt. → [Templet](../platser/templet.md)
+I klädhögarna i [ritualkammaren](../platser/ritualkammaren.md): identiska husnycklar. Nyckelbricka och kvitto finns också nämnda; var de finns är inte bestämt. → [Templet](../platser/templet.md)
 
 ## Till falska identiteter
 - [Spegeln](../platser/ritualkammaren.md) och klädhögarna: vems kläder är vems?
@@ -24,4 +24,4 @@ Motsägelser i lertavlorna, [Maries](../personer/marie-alm.md) marginalantecknin
 ## Till Ishtar
 Ritualtextens fragment, [Ellens rum](../platser/ellens-rum.md), terrakottafigurerna, [Acrotidens](../personer/acrotiden.md) viskningar, Abrahamssons drömanteckningar och passagen till det forntida templet. → [Ishtars frigörelse](../tradar/ishtars-frigorelse.md)
 
-> **Lucka:** Det saknas fortfarande en kedja **till mordet på Ellen** – vem som höll i dolkarna, och vem som inte gjorde det. Polisens DNA-fynd och Abrahamssons besök i bårhuset är de närmaste i dag.
+> **Lucka:** Det saknas fortfarande en kedja **till mordet på Ellen** – vem som höll i dolkarna, och vem som inte gjorde det.

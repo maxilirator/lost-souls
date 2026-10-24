@@ -7,7 +7,7 @@ relationer:
   - person: ellen
     relation: en av tre mördare – eller den som inte deltog (okänt vem; minns inte)
   - person: herman-abrahamsson
-    relation: ifrågasätter hans kunnande; professorn är imponerad av honom och känner viss ånger
+    relation: ifrågasätter hans kunnande; professorn är imponerad av honom
   - person: ishtar
     relation: återfödd följeslagare till henne (vet inte om det)
 platser: [templet, ritualkammaren]
@@ -25,7 +25,7 @@ Peter har sitt sociala liv på nätet, där han är känd under aliaset **Obsidi
 
 När han var liten försvann hans bästa kompis under oklara omständigheter. Peter såg tecken på att något övernaturligt låg bakom, men polisen hävdade motsatsen trots att de saknade bevis och lade till slut ner fallet. Det fick honom att söka svar bortom de etablerade förklaringarna. Med tiden drogs han till gothkulturen och dess fascination för det ockulta. Med The Sisters of Mercy som idoler har han länge fördjupat sig i mörkare tankevärldar. Mörkklädd, lång och smal påminner han om bandets sångare Andrew Eldritch.
 
-Intresset för det ockulta förde honom till [kulten](../kanon/kulten.md) – för svar och gemenskap – men han ifrågasätter Abrahamssons kunnande. Professorn var imponerad av Peters kunskaper om det ockulta och kände ett visst mått av ånger när han lät honom förlora sitt minne.
+Intresset för det ockulta förde honom till [kulten](../kanon/kulten.md) – för svar och gemenskap – men han ifrågasätter Abrahamssons kunnande. Professorn är imponerad av Peters kunskaper om det ockulta.
 
 **Brevet** är helt förfalskat (se [breven](../spelverktyg/breven.md#peter-keller)): det säger att han lagt nätlivet bakom sig och litar på professorn. I verkligheten skrev han tvärtom.
 
