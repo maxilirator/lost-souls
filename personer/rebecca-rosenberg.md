@@ -9,20 +9,49 @@ relationer:
   - person: jelena
     relation: formell överordnad, men Jelena har den verkliga makten
   - person: herman-abrahamsson
-    relation: finansierar honom; formell andreman
+    relation: finansierar honom; formell andreman. Han har svårt för henne och njuter av att ha berövat henne minnet
+  - person: ishtar
+    relation: återfödd följeslagare till henne (vet inte om det)
 platser: [templet, ritualkammaren]
 tradar: [identitetsmysteriet]
 ---
-# Rebecca Rosenberg
+# Rebecca Rosenberg – Mångmiljonären
 
-*Rollperson · Arbetsutkast*
+*Rollperson · knappt 40 år · Arbetsutkast*
 
-Förmögen svensk-amerikanska med intresse för judisk mystik. [Kultens](../kanon/kulten.md) huvudfinansiär och officiella andreman, men hennes inflytande är mest formellt. Hon har större rum, eget badrum och tillträde till bibliotek och ledningsmöten. [Jelena](jelena.md) har den verkliga operativa makten. Rebecca vill ha tillgång till kunskap och inflytande. Efter ritualen minns hon inte sin ställning.
+![Rebecca i spegeln](../bilder/rp-rebecca.png)
 
-I rummet: hebreiska texter, internationella kontakter och finansiella handlingar. Fördel: Naturlig ledare.
+## Vem hon är
+
+Rebecca har arabiska drag men är judinna från USA. Som spädbarn flyttade hon med sina förmögna föräldrar till Sverige, där hennes far arbetade i ett större företag. Hon har svenska och engelska som modersmål. Efter gymnasiet återvände familjen till New York och hon började arbeta inom familjens verksamhet. I trettioårsåldern drabbades hon av en livskris som väckte hennes intresse för det judiska arvet. Ekonomiskt oberoende flyttade hon tillbaka till Sverige och började studera religionshistoria vid Stockholms universitet. Hon sökte sig till Abrahamsson av nyfikenhet på judisk mysticism och sanningen bakom de forntida berättelserna i Toran.
+
+I [kulten](../kanon/kulten.md) är hon huvudfinansiär och officiell andreman, men hennes inflytande är mest formellt. Hon har större rum, eget badrum och tillträde till bibliotek och ledningsmöten. [Jelena](jelena.md) har den verkliga operativa makten. Efter ritualen minns hon inte sin ställning.
+
+Professorn har svårt för hennes överklassattityd och har flera gånger ångrat att han tog in henne. Att han indirekt berövade henne minnet är något han njuter av.
+
+**Brevet** (se [breven](../spelverktyg/breven.md#rebecca-rosenberg)): första stycket är sant – skilsmässan, New York, ingen hon känner i Stockholm. Det andra är förfalskat för att lägga skulden för ritualen på henne.
+
+## Kläder i klädhögen
+
+*Diskret lyx:* täckväst, mörk kashmirkofta, sidenblus och välskurna byxor. Eleganta boots och en exklusiv men återhållsam handväska. Mobil och husnyckel.
+
+## Rummet i Templet
+
+En större svit med eget badrum. Ombonad med rökelse, blommor, olika lampor och röda gardiner. Den bärbara datorn på skrivbordet är låst. Förutom studielitteraturen finns en rad magasin om företagande, aktier och omvärldsanalyser, internationella kontakter och finansiella handlingar. Allt är på engelska, utom **en Tora på hebreiska vid sängen**. När hon öppnar den märker hon att hon kan läsa hebreiska. I garderoben hänger diskreta, lyxiga plagg i business casual.
+
+## Bakom skärmen
+
+**Passiva attribut:** Tålighet +1, Viljestyrka +1, Reaktion +1
+**Aktiva attribut:** Intellekt +1, Intuition +2, Sinnen −2, Kyla +0, Hårdhet +1, Utstrålning +2, Själ +0
+
+### Fördel: Naturlig ledare
+När du kliver fram och tar kommandot, **slå +Utstrålning**:
+
+- **(15+)** Personerna omkring dig accepterar dig som ledare och lyssnar på dig. Du har *+1 pågående* mot dem så länge de accepterar ditt ledarskap.
+- **(10–14)** Personerna omkring dig lyssnar på dig. Du har *+1 på nästa slag* mot dem.
+- **(−9)** Dina försök att ta kommandot väcker motstånd och förakt. Spelledaren gör ett drag.
 
 ## Trådar
 
-- [Identitetsmysteriet](../tradar/identitetsmysteriet.md): brevet har manipulerats så att hon verkar ha drivit på ritualen.
-
-> ⚠ **Motsägelse:** Brevet "får henne att verka ha drivit på ritualen" – men Abrahamsson vet inte att någon ritual utförts. Se [M3](../arbete/motsagelser.md#m3-vad-vet-abrahamsson-om-ritualen).
+- [Identitetsmysteriet](../tradar/identitetsmysteriet.md): brevet pekar ut henne som den som drev på ritualen.
+- [Polisutredningen](../tradar/polisutredningen.md): Abrahamsson ger polisen falska uppgifter om henne – överdrivet intresserad av ritualer, har försökt övertala de andra, luktar ofta cannabis.

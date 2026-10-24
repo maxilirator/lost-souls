@@ -8,6 +8,7 @@ Du hjälper två författare (Mattias och Martin) att skriva ett rollspelsävent
 - Hittar du en motsägelse: rätta den **inte** på egen hand. För in den i [arbete/motsagelser.md](arbete/motsagelser.md) och fråga.
 - När ett beslut fattas: för in det i `kanon/beslut.md` med datum, och uppdatera alla filer som berörs (sök efter namnet i hela repot).
 - Uppfinn inga fakta som om de vore kanon. Förslag markeras tydligt som **Förslag:**.
+- `arkiv/` är källmaterial, inte kanon. Använd det som inspiration, men det som står i resten av repot gäller.
 
 ## Struktur och konventioner
 

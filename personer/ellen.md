@@ -1,5 +1,5 @@
 ---
-namn: Ellen
+namn: Ellen Medin
 typ: spelledarperson
 status: död (själen fången i Chokmahs citadell)
 utkast: arbetsutkast
@@ -19,14 +19,23 @@ relationer:
 platser: [ellens-rum, chokmahs-citadell, ritualkammaren]
 tradar: [viktor-soker-ellen, ishtars-frigorelse, polisutredningen]
 ---
-# Ellen
+# Ellen Medin
 
-*Spelledarperson · Död vid äventyrets början · Arbetsutkast*
+*Spelledarperson · ca 30 år · Död vid äventyrets början · Arbetsutkast*
 
-Ellen var **[Viktors](viktor.md) flickvän**. Tre av de fyra rollpersonerna mördade henne medvetet i en ockult ritual – tre dolkhugg genom bröstkorgen. Den fjärde deltog inte. Hennes själ är nu fången i [Chokmahs citadell](../platser/chokmahs-citadell.md), där Ishtar tidigare satt fången. [Hennes rum](../platser/ellens-rum.md) i Templet blir centrum för övernaturliga förändringar.
+Ellen var **[Viktors](viktor.md) flickvän** och medlem i kulten. Tre av de fyra rollpersonerna mördade henne medvetet i en ockult ritual – tre dolkhugg genom bröstkorgen. Den fjärde deltog inte. Hennes själ är nu fången i [Chokmahs citadell](../platser/chokmahs-citadell.md), där Ishtar tidigare satt fången. [Hennes rum](../platser/ellens-rum.md) i Templet blir centrum för övernaturliga förändringar.
 
-> ⚠ **Motsägelse:** Äldre text säger att Ellen *deltog i ritualen och dog vid mötet med Ishtar* (och konceptbilden visar henne som rollperson, "Ishtars ankare"). Det strider mot att hon mördades av rollpersonerna. Se [M1](../arbete/motsagelser.md#m1-ellens-roll-i-ritualen).
+## Utseende
+
+Långt blonderat hår. Stil: *kreativ vintage* – oversized kavaj och polotröja, vida jeans och röda sneakers. Det är den femte klädhögen i ritualkammaren.
+
+## Kroppen
+
+Ligger mitt i pentagrammet med tre dolkhugg genom bröstkorgen. Runt ena armen har hon ett bandage; under det syns ett djupt snitt från en skalpell. Blod har tappats, men inte i någon större mängd – det blev ockran i pentagrammet.
+
+> ⚠ **Motsägelse:** Originalet lät Ellen dö när hon omfamnade Ishtar i citadellet, med strypmärken på halsen. Det strider mot mordet. Bandaget och blodet hon gav till ockran tyder på att hon deltog frivilligt i ritualen – men visste hon att hon var offret? Se [M1](../arbete/motsagelser.md#m1-ellens-roll-i-ritualen).
 
 ## Öppet
-- Vem var Ellen som människa? Hon saknar egen personlighet i materialet.
-- Var finns kroppen? Kan hon nås i citadellet?
+- Vem var Ellen som människa? Utöver utseendet saknar hon personlighet i materialet.
+- Var finns kroppen efter att rollpersonerna lämnat kammaren? Se [M2](../arbete/motsagelser.md#m2-var-ligger-ritualplatsen).
+- Kan hon nås i citadellet? Originalets utkast har idén *"Ellen kommer tillbaka"*.

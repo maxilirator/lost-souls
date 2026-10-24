@@ -1,6 +1,10 @@
 # Vilsna själar
 
-Rollspelsäventyr av Mattias Geisler och Martin Svärd. Omarbetad version (arbetsutkast v0.7).
+*Ett äventyr till Kult: Den förlorade gudomligheten* av Mattias Geisler och Martin Svärd. Omarbetad version (arbetsutkast v0.7).
+
+> En torr och varm sydvind blåser genom Stockholm. Det är oktober och stjärnklart. […] Och att himlen är mörk. Lite för mörk.
+
+Scenariot kretsar kring identitet och utspelar sig i ett höstmörkt Stockholm i nutid.
 
 Fyra rollpersoner vaknar utan minne i en ritualkammare i Gränslandet. Tre av dem har mördat Ellen, Viktors flickvän, och därmed frigjort Ishtar ur Chokmahs citadell. Ingen vet vad de har gjort, inte ens de själva. Större delen av äventyret utspelar sig i kultens hus i Stockholm, **Bet Ishtar Templet** – i vardagslag **Templet**.
 
@@ -17,9 +21,10 @@ Fyra rollpersoner vaknar utan minne i en ritualkammare i Gränslandet. Tre av de
 | [`spelverktyg/`](spelverktyg/) | Nedräkningar och ledtrådskedjor |
 | [`bilder/`](bilder/) | Konceptbilder och kartor |
 | [`arbete/`](arbete/) | **Motsägelser och öppna frågor** att besluta om |
+| [`arkiv/`](arkiv/) | Originaldokumentet, oförändrat – inte kanon |
 | [`mallar/`](mallar/) | Mallar för nya filer |
 
-Börja med [kanon/sanningen.md](kanon/sanningen.md), sedan [arbete/motsagelser.md](arbete/motsagelser.md).
+Börja med [kanon/stamning.md](kanon/stamning.md) och [kanon/sanningen.md](kanon/sanningen.md), sedan [arbete/motsagelser.md](arbete/motsagelser.md).
 
 ## Arbetsprinciper
 

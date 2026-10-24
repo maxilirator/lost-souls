@@ -10,11 +10,11 @@ Kulten bor i [Templet](../platser/templet.md), officiellt *Bet Ishtar Templet*.
 
 ## Maktordning
 
-**Abrahamsson** är grundare och uttolkare av Ishtars vilja. **Rebecca** är huvudfinansiär och formell andreman; hon har bättre rum, privilegier och tillträde till bibliotek och ledningsmöten. Hon tror att titeln ger verkligt inflytande. **Jelena** är den verkliga andremannen och styr tillgången till ledaren, scheman, nycklar och information. Övriga medlemmar har olika grad av tro, tvivel och beroende.
+**Professor Abrahamsson** är grundare och uttolkare av Ishtars vilja. **Rebecca** är huvudfinansiär och formell andreman; hon har bättre rum, privilegier och tillträde till bibliotek och ledningsmöten. Hon tror att titeln ger verkligt inflytande. **Jelena** är den verkliga andremannen och styr tillgången till ledaren, scheman, nycklar och information. Övriga medlemmar har olika grad av tro, tvivel och beroende.
 
 ## Vardagsliv och obehag
 
-Gemensamma måltider, meditation, studier, drömjournaler och ritualer ger en verklig känsla av samhörighet. Samtidigt används bekännelser, förseglade självporträtt, reningsnätter, lojalitetsprov och övervakning för att skapa lydnad. Abrahamsson har manipulerat rollpersonernas självporträtt (se [identitetsmysteriet](../tradar/identitetsmysteriet.md)). Kultens löfte om frihet står i direkt motsats till dess sociala kontroll.
+Gemensamma måltider, meditation, studier, drömjournaler och ritualer ger en verklig känsla av samhörighet. Samtidigt används bekännelser, förseglade självporträtt, reningsnätter, lojalitetsprov och övervakning för att skapa lydnad. Abrahamsson har manipulerat rollpersonernas självporträtt – [breven](../spelverktyg/breven.md) de lämnade in i förseglade kuvert. Kultens löfte om frihet står i direkt motsats till dess sociala kontroll.
 
 ### Obehagliga inslag – maktens vardag
 

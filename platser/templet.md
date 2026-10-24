@@ -28,13 +28,15 @@ En låst järngrind vetter mot en anonym sidogata. På gården finns kullersten,
 
 **Kök och matsal:** Ett välutrustat storkök med ett långt bord där alla kan äta tillsammans. Gemensamma middagar skapar värme och tillhörighet, men fungerar också som informella förhör: frånvaro, tvekan och konflikter noteras. Jelena organiserar inköp och arbetspass; Rebecca kan få särskilda önskemål uppfyllda.
 
-**Vardagsrum:** Mjuka soffor, eldstad, böcker, filtar och en liten musikanläggning. Här samtalar, spelar och grälar medlemmarna. Den stora bilden av Ishtar är gjord efter Abrahamssons drömmar, utan att han själv inser hur exakt den föreställer den fångna kvinnan.
+**Vardagsrum:** Mjuka soffor, eldstad, böcker, filtar, doftljus och en liten musikanläggning. Här samtalar, spelar och grälar medlemmarna. Den stora bilden av Ishtar är gjord efter Abrahamssons drömmar, utan att han själv inser hur exakt den föreställer den fångna kvinnan.
 
 > **Notera:** "Den fångna kvinnan" var Ishtar när bilden målades. Nu sitter Ellen i citadellet. Förändras bilden? Se [oppna-fragor](../arbete/oppna-fragor.md).
 
+![Vardagsrummet med My vid brasan](../bilder/templet-vardagsrum.png)
+
 ## Övervåning – privata rum
 
-Här finns små sovrum och delade badrum. Rollpersonernas rum behåller sina identitetsledtrådar från originalet: Alexanders krypterade utrustning, Peters dator och ockulta material, Maries anteckningar och Rebeccas hebreiska texter och ekonomiska handlingar. **Rebecca har en större svit med eget badrum**, en konkret förmån som finansieringen gett henne. De övriga medlemmarnas rum speglar deras personligheter.
+Här finns små sovrum och delade badrum. Rollpersonernas rum behåller sina identitetsledtrådar från originalet: Alexanders krypterade utrustning, Peters dator och ockulta material, Maries anteckningar och Rebeccas hebreiska texter och ekonomiska handlingar. **Rebecca har en större svit med eget badrum**, en konkret förmån som finansieringen gett henne. De övriga medlemmarnas rum speglar deras personligheter. Rollpersonernas rum beskrivs i detalj i personfilerna: [Alexander](../personer/alexander-ehrson.md#rummet-i-templet), [Peter](../personer/peter-keller.md#rummet-i-templet), [Rebecca](../personer/rebecca-rosenberg.md#rummet-i-templet), [Marie](../personer/marie-alm.md#rummet-i-templet) och [My](../personer/my.md#hennes-rum).
 
 [Ellens rum](ellens-rum.md) har en egen fil.
 
@@ -42,9 +44,9 @@ Här finns små sovrum och delade badrum. Rollpersonernas rum behåller sina ide
 
 ## Vindsvåning – bibliotek och Abrahamssons privata rum
 
-**Biblioteket:** Bokhyllor från golv till tak, arkeologiska rapporter, fotografier av lertavlor, handskrivna översättningar och ockult litteratur av skiftande kvalitet. Här hålls studiecirklar och möten. Rebecca har särskild tillgång, men Jelena avgör i praktiken när Abrahamsson får störas.
+**Biblioteket:** Bokhyllor från golv till tak, arkeologiska rapporter, fotografier av lertavlor, handskrivna översättningar och ockult litteratur av skiftande kvalitet. Här hålls studiecirklar och möten. Rebecca har särskild tillgång, men Jelena avgör i praktiken när Abrahamsson får störas. Här tar han emot rollpersonerna när de kommer hem, se [mottagningen](../scener/abrahamssons-bibliotek.md).
 
-**Arbetsrummet:** Låst, belamrat med anteckningar, drömjournaler och skisser av en svart katedral och en fången kvinna. Här finns också spår efter manipulationen av de förseglade självporträtten.
+**Arbetsrummet:** Låst, belamrat med anteckningar, drömjournaler och skisser av en svart katedral och en fången kvinna. Här finns också spår efter manipulationen av de förseglade självporträtten. Att undersöka rummet tar flera timmar, se [identitetsmysteriet](../tradar/identitetsmysteriet.md#abrahamssons-arbetsrum).
 
 **Abrahamssons bostad:** Bekväm och avskild. Kontrasten mot de enklare medlemsrummen understryker maktförhållandet.
 
