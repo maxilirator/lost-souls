@@ -41,6 +41,6 @@ En **öde industrilokal** i Gränslandet. På golvet är pentagrammet målat i o
 
 Kammaren ligger i [Gränslandet](granslandet.md). När rollpersonerna lämnar den kan de **aldrig hitta tillbaka**. Detta är en egenskap hos platsen, inte en hemlig tunnel eller en påtvingad väg genom äventyret. Ingen servicetunnel leder hit.
 
-> **Spelledarhemlighet:** Ellens kropp blir kvar här. Polisen kommer aldrig till Gränslandet.
+> **Spelledarhemlighet:** Ellens kropp blir kvar här. Polisen kommer aldrig till Gränslandet. Ishtars själ bor i kroppen och läker den med sina krafter, så att hon kan vakna.
 
 > **Öppet:** Finns dolkarna kvar i rummet? Skalpellen finns där.

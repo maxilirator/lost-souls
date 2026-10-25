@@ -8,13 +8,17 @@ Men de minns hur världen fungerar. De kan prata, följa skyltar, läsa kartor o
 
 Först när de använder något märker de om de behärskar det, och hur väl.
 
+## Spridda minnen
+
+De känner igen Templet när de ser det, och de kan ha kvar några minnen. Men minnena är spridda och utan länkar till varandra. Yttre stimuli, till exempel en plats, ett föremål eller en röst, kan väcka dem när dramaturgin eller spelet behöver det. Det är inget som rollpersonerna kan kalla fram med eftertanke.
+
 ## Kunskap som kommer tillbaka
 
 De minns inte vad de lärt sig utan hjälp. Men **om de får veta det från en extern källa kommer kunskapen tillbaka.** När de till exempel har förstått att de läst om teorierna om Sodom och Gomorra minns Marie, Peter och Rebecca plötsligt omfattande fakta om Levanten under mellanbronsåldern (se [teorierna om Sodom](sodom-teorierna.md)). Alexander minns nästan ingenting, eftersom han aldrig läste litteraturen.
 
 ## Varför
 
-Ritualen fick deras minnen att frigöras och sippra genom slöjan in i Chokmahs citadell. Med varje anrop av Ishtars namn försvann mer. Se [sanningen](../kanon/sanningen.md#ritualen).
+Ritualen krävde så mycket kraft att rollpersonernas minnen konsumerades. Minnen är kraftiga magiska energier, och varje anrop av Ishtars namn slukade mer. Se [sanningen](../kanon/sanningen.md#ritualen).
 
 ## Karaktärsbladen – successivt
 

@@ -1,46 +1,44 @@
 # Öppna frågor och luckor
 
-Inga motsägelser, men saker som behöver skrivas innan helheten håller. Ordnade efter hur mycket annat som hänger på dem.
+Ordnade efter hur mycket annat som hänger på dem. Besvarade frågor står under *Lösta*, med svaret.
 
-## Bärande frågor (blockerar akt 3)
+## Öppna
 
-1. **Vem av rollpersonerna deltog inte i mordet?** Var hen närvarande, sov, var drogad, försökte stoppa det? Varför är hen också naken och blodig? Alexander drev på ritualen men visste inte att ritualmord ingick. → [sanningen.md](../kanon/sanningen.md)
-2. **Vem tog initiativet till mordet, och vilken roll hade var och en?** → [sanningen.md](../kanon/sanningen.md)
-3. **Hur upptäcker rollpersonerna att de mördat Ellen?** Det saknas fortfarande en ledtrådskedja för just detta. → [ledtradar.md](../spelverktyg/ledtradar.md)
-4. **Var är Ishtar nu, och hur söker hon upp dem?** Vad hon vill är besvarat (samla sina följeslagare och fullfölja upproret). → [ishtar.md](../personer/ishtar.md)
-5. **Kan Ellens själ nås eller räddas?** Passagen leder inte till citadellet – vad gör det då? Originalets utkast har idén *"Ellen kommer tillbaka"*. → [chokmahs-citadell.md](../platser/chokmahs-citadell.md)
-6. **Var tog rollpersonernas minnen vägen?** De strömmade in i citadellet med varje anrop av Ishtars namn. Fick hon dem?
+1. **Steffe:** kan han dyka upp igen i akt 3, och kanske ta Ellen till myndigheterna? Kanske inte. Öppen fråga.
+2. **Hur lång tid tar det för Ishtar att läka Ellens kropp?** Tiden är inte satt. Änglarnas förhör går på en av klockorna i [nedräkningen](../spelverktyg/nedrakningar.md).
+## Lösta
 
-## Utan polisen
+### Kunskap om Ellens fångenskap
+- **Hur kan rollpersonerna få kunskap om Ellens fångenskap?** Det kan ske på flera sätt: via tavlorna, via änglarna när de kommer på besök, eller genom att Acrotiden berättar. De kan också lista ut det själva. Frågan är besvarad. → [sanningen](../kanon/sanningen.md)
 
-7. **Vad driver tiden framåt i akt 2?** Polisspåret var den yttre klockan. Nu finns bara nedräkningen för Ishtars frigörelse – räcker den, eller behövs ett tryck från kulten själv (Viktor, Jelena, Abrahamsson)?
-8. **Vem saknar Ellen?** Kroppen blir kvar i Gränslandet. För omvärlden är hon försvunnen.
-9. **Hur får Alexander veta att han är Axel Ehrenborg?** SÄPO-kontakten finns kvar, men inte DNA-analysen som fick SÄPO att höra av sig. → [sapo-kontakten.md](../personer/sapo-kontakten.md)
+### Mordet och ritualen
+- **Vem av Peter och Alexander deltog inte, och hur mordet gick till?** Mordet är helt öppet. Det kan ha varit en som högg tre gånger, eller tre som högg en gång var. Den som inte deltog gjorde det av ett eller annat skäl som hänger ihop med hens själ. Det är en del av varför ritualen gick som den gick. → [sanningen](../kanon/sanningen.md)
+- **Vem tog initiativet, och vilken roll hade var och en?** Besvarat 2026-10-25: Marie och Peter planerade ritualen, Rebecca finansierade, Alexander blev den fjärde.
+- **Hur blir Ellens öde känt?** Öppet. Ingen minns ändå.
+- **Hur upptäcker rollpersonerna att de mördat Ellen?** Ledtråden är att de är nakna, med blod på kropparna. Ingen annan är där, och dolken ligger på golvet. De kan tvivla, men ledtråden finns. → [ledtradar](../spelverktyg/ledtradar.md)
 
-## Tidslinje
+### Ishtar och Ellen
+- **Var är Ishtar nu, och hur söker hon upp rollpersonerna?** Hon är i Ellens döda kropp och läker den med sina krafter. Hon återkommer i akt 3 i Ellens kropp, men med Ishtars själ.
+- **Kan Ellens själ nås eller räddas?** Ellen kommer aldrig tillbaka. Det som vaknar är Ellens kropp med Ishtars själ, med blandade minnen från Ishtar, Ellen och rollpersonerna.
+- **Vem saknar Ellen?** Viktor, ingen annan.
+- **Ellens personlighet.** Hon och Viktor liknar varandra, se [Ellen](../personer/ellen.md).
+- **Ellen och rummet.** Hon delar rum med Viktor.
 
-10. Hur lång var rollpersonernas frånvaro? Stearinljusen tyder på upp till ett halvt dygn i kammaren. Hur länge irrar de i Gränslandet?
+### Tid och plats
+- **Hur lång var rollpersonernas frånvaro?** De vaknar efter ca sex timmar medvetslösa, och Ellens kropp är kall. De är några timmar i Gränslandet och är tillbaka i Templet efter ca tjugo timmar totalt. De gav sig av på natten och kom tillbaka kvällen efter.
+- **Hur tar de sig ur Gränslandet?** Inte genom att se Templet. Det är irrandet och tiden som för dem ut.
+- **Sodom-passagen.** Golvet öppnar sig i Ellens och Viktors rum. En stentrappa med sand överallt leder ner i en gång, där ett svagt oljelampljus glimmar. Man kan inte återvända till Templet efter scenspelet. → [sodom-templet](../platser/sodom-templet.md)
+- **Vad driver tiden framåt i akt 2?** Rollpersonernas intresse för sin identitet och de övernaturliga spåren från forntiden. Det räcker.
 
-## Personer
+### Personer
+- **Jelena:** Hon kan inte fly. Det är inte relevant för historien. → [jelena](../personer/jelena.md)
+- **Alexander:** Han har en burner-telefon med handlarens nummer i samtalshistoriken. Ringer han det når han sin handler. → [sapo-kontakten](../personer/sapo-kontakten.md)
+- **Lukas:** Han får nya drömmar om tomhet, tortyr, änglar och Ellen. Han målar en tavla av Ellen i citadellet i stället för Ishtar. → [lukas](../personer/lukas.md)
+- **Viktor:** Han letar i Templet och frågar alla som bor där, outtröttligt. → [viktor](../personer/viktor.md)
+- **Har en av rollpersonerna bett My låsa in köksknivarna?** Borttagen. My skrivs om.
 
-11. **Ellen** har utseende men ingen personlighet. Spelarna behöver förstå vem de tog livet av.
-12. **Jelena:** spionerar åt professorn – men vad vill hon själv?
-13. **Liv** har ingen egen tråd. Vad gör hon om rollpersonerna inte gör något?
-14. **Viktor:** Vad gör han konkret för att hitta Ellen?
-15. **Steffe** är det enda vittnet från Gränslandet. Kan han dyka upp igen?
-
-## Lösa trådar
-
-16. Kultens **försvunna före detta medlem** – vem, vad hände?
-17. **Peters försvunna barndomsvän** – samma person som ovan? (förslag)
-18. **Bilden av Ishtar** i vardagsrummet föreställer "den fångna kvinnan". Ändras den nu när Ellen sitter i citadellet?
-19. **Nadias drömmar** – kan de byta från Ishtar till Ellen? (förslag)
-20. Kan **Acrotiden** förväxla rollpersonerna (Ishtars följeslagare) med Ishtar?
-21. **Änglarna**, i form av judiska underrättelseagenter, letar efter Ellen. (idé från originalets utkast)
-22. Har en av rollpersonerna bett My **låsa in köksknivarna**? Varför? (idé från originalets utkast)
-
-## Platser
-
-23. Rumsfördelningen i Templet. Var ligger Ellens rum?
-24. Är det att se Templet som för dem ut ur Gränslandet? → [granslandet.md](../platser/granslandet.md)
-25. Sodom-templet: hur länge är passagen öppen, kan man återvända? Var i Ellens rum öppnas den?
+### Övrigt
+- **Bilden av Ishtar** i vardagsrummet är oförändrad. Lukas nya tavlor visar Ellen.
+- **Acrotiden** kan inte förväxla rollpersonerna med Ishtar, men den känner lukten av Ishtar på dem.
+- **Änglarna** kommer när spelet passar. Det är en av klockorna.
+- **Kultens försvunna före detta medlem** och **Peters försvunna barndomsvän** är borttagna. Ingen medlem har försvunnit.

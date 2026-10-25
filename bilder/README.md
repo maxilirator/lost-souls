@@ -28,6 +28,6 @@ Delas ut när en rollperson ser sig själv i spegeln (se [minnesförlusten](../s
 - **Namnet** "Ishtars hus" på bilden – heter nu Bet Ishtar Templet.
 - **Hemlig tunnel** (rum 18–19 och panelen "Hemlig tunnel") – finns inte, se [beslut](../kanon/beslut.md).
 - **Ritualplatsen** på kartan som en byggnad i närheten – den ligger i Gränslandet.
-- **Ellen** visas bland rollpersonerna och "Rebecca" bland spelledarpersonerna – Rebecca är rollperson, Ellen spelledarperson.
+- **Ellen** visas bland rollpersonerna och "Rebecca" bland spelledarpersonerna – Rebecca är rollperson, Ellen spelledarperson. Konceptbilden byts ut och får inte avgöra hur det var, se [M1](../arbete/motsagelser.md#m1-ellens-roll-i-ritualen).
 - **Vägen till Södersjukhuset** på kartan – utgår, se [lösta motsägelser](../arbete/motsagelser.md#lösta).
-- Planritningen har rum för Rebecca, Jelena, Nadia, Liv och My men **inte** för Alexander, Peter, Marie, Viktor eller Ellen.
+- Planritningen har rum för Rebecca, Jelena, Lukas och My men **inte** för Alexander, Peter, Marie, Viktor eller Ellen.

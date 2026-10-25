@@ -2,7 +2,7 @@
 namn: Templet (Bet Ishtar Templet)
 typ: byggnad
 del_av: Stockholm, Liljeholmen
-personer: [herman-abrahamsson, jelena, rebecca-rosenberg, alexander-ehrson, peter-keller, marie-alm, my, viktor, nadia, liv]
+personer: [herman-abrahamsson, jelena, rebecca-rosenberg, alexander-ehrson, peter-keller, marie-alm, my, viktor, lukas]
 tradar: [identitetsmysteriet, viktor-soker-ellen, ishtars-frigorelse]
 bilder: [../bilder/ishtars_hus_koncept.png]
 ---
@@ -30,7 +30,7 @@ En låst järngrind vetter mot en anonym sidogata. På gården finns kullersten,
 
 **Vardagsrum:** Mjuka soffor, eldstad, böcker, filtar, doftljus och en liten musikanläggning. Här samtalar, spelar och grälar medlemmarna. Den stora bilden av Ishtar är gjord efter Abrahamssons drömmar, utan att han själv inser hur exakt den föreställer den fångna kvinnan.
 
-> **Notera:** "Den fångna kvinnan" var Ishtar när bilden målades. Nu sitter Ellen i citadellet. Förändras bilden? Se [oppna-fragor](../arbete/oppna-fragor.md).
+> **Notera:** "Den fångna kvinnan" var Ishtar när bilden målades. Nu sitter Ellens själ i Ishtars kropp i citadellet. Förändras bilden? Se [oppna-fragor](../arbete/oppna-fragor.md).
 
 ## Övervåning – privata rum
 
@@ -42,7 +42,7 @@ Här finns små sovrum och delade badrum. Rollpersonernas rum behåller sina ide
 
 ## Vindsvåning – bibliotek och Abrahamssons privata rum
 
-**Biblioteket:** Bokhyllor från golv till tak, arkeologiska rapporter, fotografier av lertavlor, handskrivna översättningar och ockult litteratur av skiftande kvalitet. Här läser medlemmarna forntida litteratur tillsammans och håller möten. Rebecca har särskild tillgång, men Jelena avgör i praktiken när Abrahamsson får störas. Här tar han emot rollpersonerna när de kommer hem, se [mottagningen](../scener/abrahamssons-bibliotek.md).
+**Biblioteket:** Bokhyllor från golv till tak, arkeologiska rapporter, fotografier av lertavlor, en riktig lertavla från Levanten för intensiva studier, handskrivna översättningar och ockult litteratur av skiftande kvalitet. Här läser medlemmarna forntida litteratur tillsammans och håller möten. Rebecca har särskild tillgång, men Jelena avgör i praktiken när Abrahamsson får störas. Här tar han emot rollpersonerna när de kommer hem, se [mottagningen](../scener/abrahamssons-bibliotek.md).
 
 **Arbetsrummet:** Låst, belamrat med anteckningar, drömjournaler och skisser av en svart katedral och en fången kvinna. Här finns också spår efter manipulationen av de förseglade självporträtten. Att undersöka rummet tar flera timmar, se [identitetsmysteriet](../tradar/identitetsmysteriet.md#abrahamssons-arbetsrum).
 
@@ -52,6 +52,6 @@ Här finns små sovrum och delade badrum. Rollpersonernas rum behåller sina ide
 
 **Meditationshallen:** Ett stort, ljust rum med kuddar, mattor, växter och ett runt fönster eller ljusschakt. Här leds andningsövningar, tysta sittningar och drömberättelser. Atmosfären kan vara verkligt rogivande.
 
-**Kulthallen:** Ett mörkare rum med tegelvalv, ljus, rökelse, ett stenaltare och en monumental avbildning av Ishtar. Här hålls invigningar, gemensamma böner och ceremonier. Rummet är skrämmande först när man förstår hur bekännelser och lojalitetskrav används.
+**Kulthallen:** Ett mörkare rum med tegelvalv, ljus, rökelse, ett stenaltare och en monumental avbildning av Ishtar. Ishtars mumie står här, tillsammans med de två lertavlorna från utgrävningen vid Döda havet. Här hålls invigningar, gemensamma böner och ceremonier. Rummet är skrämmande först när man förstår hur bekännelser och lojalitetskrav används.
 
 **Förråd och arkiv:** Ritualrekvisita, gamla mötesprotokoll, reningsscheman och medlemmarnas inlämnade texter. Vissa skåp är låsta. **Ingen passage leder till ritualplatsen.**

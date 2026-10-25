@@ -1,7 +1,7 @@
 ---
 namn: Följderna av Ishtars frigörelse
 status: under arbete
-personer: [ishtar, ellen, acrotiden, nadia, herman-abrahamsson]
+personer: [ishtar, ellen, acrotiden, herman-abrahamsson]
 platser: [ellens-rum, chokmahs-citadell, sodom-templet]
 scener: [sodom-manusscen]
 ---
@@ -9,7 +9,8 @@ scener: [sodom-manusscen]
 
 ## Dramatiska frågor
 - Vad vill den frigjorda [Ishtar](../personer/ishtar.md)?
-- Kan rollpersonerna nå eller hjälpa [Ellens](../personer/ellen.md) fångna själ?
+- Vad gör rollpersonerna med det som vaknar i Ellens kropp, med Ishtars själ? [Ellen](../personer/ellen.md) kommer aldrig tillbaka.
+- Hur lång tid tar det för Ishtar att läka Ellens kropp?
 - Vad gör Abrahamsson när han förstår att hans forskning faktiskt gett resultat?
 
 ## Drivkraft

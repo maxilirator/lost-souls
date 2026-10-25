@@ -10,6 +10,6 @@ bilder: []
 
 Nås genom passagen som sent i äventyret öppnas i [Ellens rum](ellens-rum.md). En ny möjlig spelplats, inte en förutbestämd lösning eller en nödvändig flyktväg.
 
-Här utspelas [manusscenen](../scener/sodom-manusscen.md): spelarna gestaltar var sin forntida människa som bär samma själ som deras nutida rollperson – Ishtars följeslagare.
+Här utspelas [manusscenen](../scener/sodom-manusscen.md): spelarna gestaltar var sin forntida människa som bär samma själ som deras nutida rollperson – de aristokrater som förrådde Ishtar i striden.
 
-> **Lucka:** Templet och konsekvenserna av att resa dit behöver utvecklas. Hur länge är passagen öppen? Kan man komma tillbaka?
+> **Svar 2026-10-25:** Man kan inte återvända till Templet efter scenspelet. Passagen nås genom golvet i Ellens och Viktors rum, se [Ellens rum](ellens-rum.md).

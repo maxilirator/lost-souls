@@ -18,4 +18,4 @@ En undercoveragent från Säkerhetspolisen som söker upp [Alexander](alexander-
 - Alexander får veta sin sanna identitet: **Axel Ehrenborg**.
 - Han får order att fortsätta sitt uppdrag.
 
-> **Öppet:** Vad får SÄPO att höra av sig? I originalet var det en DNA-analys i en polisutredning, som har utgått. **Förslag:** Alexander har slutat rapportera, och SÄPO vill veta varför.
+> **Svar 2026-10-25:** Alexander har en burner-telefon med handlarens nummer i samtalshistoriken. Ringer han det når han sin handler, som berättar vem han är. DNA-analysen från originalet har utgått.

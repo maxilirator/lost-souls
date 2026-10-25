@@ -1,6 +1,6 @@
 # Personerna
 
-Fyra rollpersoner och sju spelledarpersoner, totalt elva kultmedlemmar inklusive Ellen. Därtill personer och väsen utanför kulten.
+Fyra rollpersoner och sex spelledarpersoner i kulten, totalt tio kultmedlemmar inklusive Ellen. Därtill personer och väsen utanför kulten.
 
 ## Rollpersoner
 
@@ -16,10 +16,9 @@ Fyra rollpersoner och sju spelledarpersoner, totalt elva kultmedlemmar inklusive
 - [Herman Abrahamsson](herman-abrahamsson.md) – professor och kultledare
 - [Ellen Medin](ellen.md) – mördad; själen fången i citadellet
 - [Viktor](viktor.md) – Ellens pojkvän
-- [Jelena](jelena.md) – verklig andreman, flykting från Serbien
+- [Jelena](jelena.md) – verklig andreman, flykting från Serbien; en Azghoul bunden till Abrahamsson
 - [My Lindström](my.md) – ny medlem, inte med på ritualen
-- [Nadia](nadia.md) – visionär
-- [Liv](liv.md) – idealist som börjar tvivla
+- [Lukas](lukas.md) – egoistisk konstnär med visioner av Ishtar
 
 ## Utanför kulten
 
@@ -45,18 +44,19 @@ graph LR
   Ellen((Ellen ✝))
   RP -- "tre av fyra mördade" --> Ellen
   Viktor -- flickvän --- Ellen
-  Ellen -- fången i Ishtars ställe --> Citadellet[Chokmahs citadell]
+  Ellen -- fången i Ishtars kropp --> Citadellet[Chokmahs citadell]
   Ishtar -- frigjord --> Citadellet
-  Ishtar -. "återfödda följeslagare" .-> RP
+  Ishtar -. "förrådd av" .-> RP
   Acrotiden -- jagar --> Ishtar
-  Herman -- "planerade ritualen" --> RP
+  Peter -- "kärlek" --- Marie
   Herman -- förfalskade brev --> RP
   Herman -- "vill ha som älskarinna" --> Marie
   Rebecca -- formell andreman --> Herman
-  Jelena -- "verklig andreman, spionerar" --> Herman
+  Jelena -- "verklig andreman, bunden, spionerar" --> Herman
   Alexander -- utreder i hemlighet --> Herman
   SAPO[SÄPO-kontakten] -. "berättar vem han är" .-> Alexander
   My -. kan motsäga breven .-> RP
-  Nadia -. drömmer om .-> Ishtar
   Viktor -- hängiven --> Herman
+  Lukas -- "maktkamp" --> Rebecca
+  Lukas -. "visioner av" .-> Ishtar
 ```

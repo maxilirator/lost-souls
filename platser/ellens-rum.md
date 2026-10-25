@@ -8,7 +8,7 @@ bilder: []
 ---
 # Ellens rum
 
-Ellens rum i [Templet](templet.md) är **helt fritt från spår av Ellen**. Hennes tillhörigheter är borta.
+Ellen delar rum med [Viktor](../personer/viktor.md) i [Templet](templet.md). Rummet är **helt fritt från spår av Ellen**. Hennes tillhörigheter är borta.
 
 Efter ritualen blir rummet centrum för övernaturliga förändringar. Förloppet följer [nedräkningen](../spelverktyg/nedrakningar.md#ishtars-frigörelse):
 
@@ -20,4 +20,4 @@ Efter ritualen blir rummet centrum för övernaturliga förändringar. Förloppe
 Passagen är en möjlighet, inte en påtvingad färdväg. Spelarna väljer själva om de går igenom.
 
 
-> **Öppet:** Var i rummet öppnas passagen? I originalet sprack garderobsgolvet upp och blottade en nedgång med rostiga steghantag – men den ledde till Södersjukhusets kulvert, som inte längre gäller.
+> **Svar 2026-10-25:** Golvet öppnar sig i rummet. En stentrappa med sand överallt leder ner i en gång, där ett svagt oljelampljus glimmar. Man kan inte återvända till Templet efter scenspelet.

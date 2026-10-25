@@ -11,7 +11,9 @@ relationer:
   - person: sapo-kontakten
     relation: kollega som till slut berättar vem han är
   - person: ishtar
-    relation: återfödd följeslagare till henne (vet inte om det)
+    relation: förrådde Ishtar i Sodom; hans själ bodde då i en av aristokraternas kroppar (vet inte om det)
+  - person: lukas
+    relation: Lukas misstror honom; han har inga drömmar, och det ser Lukas som tomhet (förslag)
 platser: [templet, ritualkammaren]
 tradar: [identitetsmysteriet]
 ---
@@ -43,6 +45,7 @@ Opersonligt, nästan som ett hotellrum. På skrivbordet står en dyr bärbar dat
 
 - [My](my.md) har läst eller hört att han är elektriker och ber honom titta på hennes trasiga förstärkare. Han upptäcker att han inte kan någonting om elektronik.
 - När de andra minns sina kunskaper om Levanten minns Alexander nästan ingenting – han läste aldrig litteraturen.
+- Han har en burner-telefon. I samtalshistoriken finns ett nummer till hans handler, och ringer han det når han sin handler.
 
 ## Bakom skärmen
 

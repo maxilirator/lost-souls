@@ -9,4 +9,4 @@
 
 ## Personer utan egen tråd
 
-[Liv](../personer/liv.md) är beskriven men driver inget själv. [Jelena](../personer/jelena.md) spionerar åt professorn men har inga egna mål. Kultens [försvunna före detta medlem](../kanon/kulten.md#obehagliga-inslag--maktens-vardag) och Peters försvunna barndomsvän är lösa trådar.
+[Lukas](../personer/lukas.md) har egna drivkrafter (makt genom visioner, och att utnyttja minnesförlusten) men ingen egen tråd ännu. [Jelena](../personer/jelena.md) spionerar åt professorn. Hennes egna mål är hämnd på honom och flykt tillbaka till Metropolis, men hon har ingen egen tråd ännu.

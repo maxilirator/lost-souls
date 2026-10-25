@@ -15,10 +15,10 @@ Hur reagerar Viktor när sanningen kommer fram – och vad gör rollpersonerna n
 
 ## Steg
 1. Akt 2, första mötet: Viktor frågar var Ellen är. Oron är personlig och uppriktig.
-2. Akt 2: Oron växer.
+2. Akt 2: Oron växer. Viktor har märkt att Ellen tillbringade mycket tid med Rebecca och Marie de sista veckorna, och frågar dem var hon är.
 3. Akt 3: Sanningen kan komma fram.
 
-> **Lucka:** Inga konkreta steg i akt 2. Vad gör Viktor själv för att hitta henne?
+> **Svar 2026-10-25:** Viktor letar i Templet och frågar alla som bor där, outtröttligt.
 
 ## Möjliga slut
 Öppet.

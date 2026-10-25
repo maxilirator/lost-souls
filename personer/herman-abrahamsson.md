@@ -5,7 +5,7 @@ status: levande
 utkast: arbetsutkast
 relationer:
   - person: marie-alm
-    relation: i hemlighet förälskad i henne; vill göra henne till sin älskarinna
+    relation: hennes tidigare handledare och partner; slutade för ca ett år sedan. Fortfarande i hemlighet förälskad i henne; vill göra henne till sin älskarinna
   - person: rebecca-rosenberg
     relation: hans finansiär och formella andreman; han har svårt för henne
   - person: peter-keller
@@ -13,9 +13,11 @@ relationer:
   - person: alexander-ehrson
     relation: vet inte att han är SÄPO-agent; tycker att han kan förvånansvärt lite historia
   - person: jelena
-    relation: hans verkliga andreman; spionerar åt honom
+    relation: verkliga andreman i kulten; han känner hennes sanna namn och har kontroll över henne; han var hennes slavdrivare för eoner sedan; hon hatar honom; spionerar åt honom
   - person: ishtar
     relation: dyrkar henne utan att förstå henne; drömmer om henne
+  - person: lukas
+    relation: lånar hans visioner utan att förstå dem; konkurrerar om kultens lyssnande (förslag)
 platser: [templet]
 tradar: [identitetsmysteriet, abrahamsson-och-marie]
 ---
@@ -28,18 +30,19 @@ Arkeolog, professor och kultledare. Egocentrisk och manipulativ. Han har **sadis
 Han famlar i mörkret. Han har dokumenterat drömmar om en svart katedral och en fången kvinna, men tror inte att de är övernaturliga.
 
 > **Spelledarhemlighet:** Se [sanningen](../kanon/sanningen.md#abrahamssons-fynd-och-plan).
+>
+> Hans själ är från tiden långt före Fallet, för eoner sedan. Då var den en slavdrivare bland onda gudar som förslavade andra raser, däribland Azghoulerna. [Jelena](jelena.md) var en av dem och var hans ägodel. Han kan fortfarande hennes sanna namn. Han minns inte detta och tror på den kristna guden. Se [beslut 2026-10-25](../kanon/beslut.md) och [M9](../arbete/motsagelser.md#m9-herman-som-gud-i-forntiden).
 
 ## Vill
 
 - Förstå vilken effekt ritualen haft.
 - Undvika att bli misstänkt för Ellens död – spåren leder till honom.
-- Få tillbaka ritualen. Han hävdar att de stulit den från honom, och han blir fascinerad av att texten försvunnit från pappret.
-- Göra [Marie](marie-alm.md) till sin älskarinna.
+- Göra [Marie](marie-alm.md) till sin älskarinna igen.
 
 ## Vad han gör
 
 - **[Mottagningen i biblioteket](../scener/abrahamssons-bibliotek.md):** tar emot rollpersonerna när de kommer hem.
-- **[Breven](../spelverktyg/breven.md):** skriver breven efter han förstått att rollpersonerna inte minns något för att manipulera dem.
+- **[Breven](../spelverktyg/breven.md):** öppnar och ändrar rollpersonernas förseglade kuvert efter ritualen, när han förstått att de inte minns något, för att manipulera dem.
 - **Spionerar** på rollpersonerna, själv med något ovidkommande ärende eller genom [Jelena](jelena.md), som letar bland deras tillhörigheter.
 - **[Erbjudandet till Marie](../scener/abrahamssons-erbjudande.md).**
 

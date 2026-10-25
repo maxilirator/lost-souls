@@ -6,7 +6,7 @@ Alla som går med i kulten skriver ett ärligt och personligt brev om vilka de �
 
 Breven nedan är spelarutdelningar. Texterna är originalets, anpassade till kulten i Templet.
 
-> ⚠ **Motsägelse:** Abrahamssons personfil säger att han skriver breven *efter* ritualen, inte att han ändrar deras egna i förväg. Anteckningarna under varje brev bygger på den äldre versionen. Se [M8](../arbete/motsagelser.md#m8-nar-skrivs-breven).
+Anteckningarna under varje brev gäller det rollpersonerna skrev själva, före ritualen. Se [M8](../arbete/motsagelser.md#m8-nar-skrivs-breven).
 
 ---
 

@@ -5,13 +5,15 @@ status: levande
 utkast: arbetsutkast
 relationer:
   - person: ellen
-    relation: en av tre mördare – eller den som inte deltog (okänt vem; minns inte)
+    relation: en av tre mördare – eller den som inte deltog (okänt vem; minns inte); Ellen tillbringade allt mer tid med henne de sista veckorna
   - person: jelena
     relation: formell överordnad, men Jelena har den verkliga makten
   - person: herman-abrahamsson
     relation: finansierar honom; formell andreman. Han har svårt för henne.
   - person: ishtar
-    relation: återfödd följeslagare till henne (vet inte om det)
+    relation: förrådde Ishtar i Sodom; hennes själ bodde då i en av aristokraternas kroppar (vet inte om det)
+  - person: lukas
+    relation: maktkamp; han tycker inte att hennes pengar ger rätt att bestämma
 platser: [templet, ritualkammaren]
 tradar: [identitetsmysteriet]
 ---

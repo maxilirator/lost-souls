@@ -19,9 +19,10 @@ Motsägelser i lertavlorna, [Maries](../personer/marie-alm.md) marginalantecknin
 ## Till ritualen
 - Ritualföremålen och den utsuddade ritualtexten i kammaren.
 - My hörde dem repetera fraser på ett främmande språk och diskutera vem som skulle ge blod till ockran.
-- Abrahamssons arbetsrum: det var han som fick dem att utföra ritualen.
+- Abrahamssons arbetsrum: hans drömjournaler och anteckningar om blodsoffer.
 
 ## Till Ishtar
 Ritualtextens fragment, [Ellens rum](../platser/ellens-rum.md), terrakottafigurerna, [Acrotidens](../personer/acrotiden.md) viskningar, Abrahamssons drömanteckningar och passagen till det forntida templet. → [Ishtars frigörelse](../tradar/ishtars-frigorelse.md)
 
-> **Lucka:** Det saknas fortfarande en kedja **till mordet på Ellen** – vem som höll i dolkarna, och vem som inte gjorde det.
+## Till mordet på Ellen
+Rollpersonerna är nakna med blod på kropparna. Ingen annan är där, och dolken ligger på golvet. De kan tvivla, men ledtråden finns. Hur mordet gick till är medvetet öppet och får avgöras av spelet.

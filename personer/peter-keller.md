@@ -9,7 +9,9 @@ relationer:
   - person: herman-abrahamsson
     relation: ifrågasätter hans kunnande; professorn är imponerad av honom
   - person: ishtar
-    relation: återfödd följeslagare till henne (vet inte om det)
+    relation: förrådde Ishtar i Sodom; hans själ bodde då i en av aristokraternas kroppar (vet inte om det)
+  - person: lukas
+    relation: Lukas avfärdar hans ockultism som bokkunskap; professorns uppmärksamhet är något de tävlar om (förslag)
 platser: [templet, ritualkammaren]
 tradar: [identitetsmysteriet]
 ---
@@ -21,11 +23,11 @@ tradar: [identitetsmysteriet]
 
 ## Vem han är
 
-Peter har sitt sociala liv på nätet, där han är känd under aliaset **Obsidian8** och har vänner över hela världen. I det fysiska livet är han tillbakadragen och blyg. Han lever på studiemedel och läser enstaka kurser utan tydlig plan för framtiden.
+Peter har sitt sociala liv på nätet, där han är känd under aliaset **Obsidian8** och har vänner över hela världen. I det fysiska livet är han tillbakadragen och blyg. 
 
 När han var liten försvann hans bästa kompis under oklara omständigheter. Peter såg tecken på att något övernaturligt låg bakom, men polisen hävdade motsatsen trots att de saknade bevis och lade till slut ner fallet. Det fick honom att söka svar bortom de etablerade förklaringarna. Med tiden drogs han till gothkulturen och dess fascination för det ockulta. Med The Sisters of Mercy som idoler har han länge fördjupat sig i mörkare tankevärldar. Mörkklädd, lång och smal påminner han om bandets sångare Andrew Eldritch.
 
-Intresset för det ockulta förde honom till [kulten](../kanon/kulten.md) – för svar och gemenskap – men han ifrågasätter Abrahamssons kunnande. Professorn är imponerad av Peters kunskaper om det ockulta.
+Intresset för det ockulta förde honom till [kulten](../kanon/kulten.md) – för svar och gemenskap. Professorn är imponerad av Peters kunskaper om det ockulta.
 
 **Brevet** är helt förfalskat (se [breven](../spelverktyg/breven.md#peter-keller)): det säger att han lagt nätlivet bakom sig och litar på professorn. I verkligheten skrev han tvärtom.
 
@@ -53,6 +55,6 @@ Du har en förmåga att känna av magi och uppfatta övernaturliga fenomen som a
 
 - [Identitetsmysteriet](../tradar/identitetsmysteriet.md): det förfalskade brevet.
 
-> **Förslag:** Barndomsvännen som försvann och kultens [försvunna före detta medlem](../kanon/kulten.md#obehagliga-inslag--maktens-vardag) är två lösa trådar som skulle kunna vara samma. Ej beslutat.
-
 > **Förslag:** Obsidian8 har vänner över hela världen som märker när han tystnar. De kan vara den enda som saknar honom.
+
+> **Spelledarhemlighet:** Tillsammans med [Marie](marie-alm.md) började Peter lista ut hur en riktig ritual skulle se ut. De ogillar Abrahamsson, och det är därför de inte tog med honom i planerna. Med tiden blev Peter och Marie ett par. Se [sanningen](../kanon/sanningen.md#planen-som-verkligen-gällde).

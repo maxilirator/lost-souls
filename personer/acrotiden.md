@@ -21,4 +21,4 @@ Den söker, lyssnar och kan dyka upp igen, men avslöjar inte automatiskt vem de
 
 **Okänt ännu:** Vad den kan göra fysiskt, hur den identifierar Ishtar och hur den reagerar på rollpersonerna. Dessa egenskaper ska inte förutsättas i scenerna.
 
-> **Öppet:** Rollpersonerna är återfödda följeslagare till Ishtar. Kan Acrotiden förväxla dem med det den söker?
+> **Svar 2026-10-25:** Den kan inte förväxla rollpersonerna med Ishtar. Men den känner lukten av Ishtar på dem.
